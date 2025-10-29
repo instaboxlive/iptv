@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
-https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
+https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD
-https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",Asianet Movies HD 
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",TEAKVISION
+https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",KCN
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
