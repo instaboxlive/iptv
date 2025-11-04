@@ -18,14 +18,37 @@ https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/Su
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.myfintv.com/assets/myfin/navbar_myFinPoint_logo.svg" group-title="Business",MYFIN TV 
+https://livetv.sinuostech.com/myfintv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" group-title="Entertainment",VIBGYOR TV 
 https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",TEAKVISION
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TEAKVISION
 https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",KCN
+#EXTINF:-1 tvg-logo="" group-title="Movies",KCN
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Malabar News
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",M Plus
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",cctv
+https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",CCTV KKM
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",SOUTH VISION
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",newmedia
+https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
+#EXTINF:-1 tvg-logo="" group-title="Movies",flowers
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",test
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",SWANTHAM
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",PeriyarVision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Keralam (1080p)
