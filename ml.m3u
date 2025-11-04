@@ -26,6 +26,8 @@ https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",TEAKVISION
 https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c0XCAxbd1p_S41BQNopsuQyNkboXdDjw1c3i69gb-7vLMQ5wOTbiNSJ74pPf8eGIhF4=w600-h300-pc0xffffff-pd" group-title="Entertainment",NattuVartha
+https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",KCN
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
@@ -33,11 +35,15 @@ https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nWnKxj0YjV3w4cx2YR4urUQZP8K7yccZ-mnry5jqCzUQ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",M Plus
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/mplus/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",cctv
+#EXTINF:-1 tvg-logo="" group-title="Movies",CCTV PRADESHIKAM
 https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",CCTV KKM
+#EXTINF:-1 tvg-logo="" group-title="Movies",CCTV CINEMA
 https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local",Starnet
+https://play.applelive.in/starnettv/starnettv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ikrVewgTGymeD_rJ7r4SYzMPjtLTGaLqyoPf99CZ5patHIH4eNcM51hiZx4v2eIDRy8UUTZK=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",SOUTH VISION
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/30Bid3flh55IEl_waHnaTDgOW01qVBvdLUng3lp_YOes_ANUk2Lx9wi-CBWA7KT1WDWdEcr6=s900-c-k-c0x00ffffff-no-rj" group-title="Local",KVTV
 https://live.skystream.in/live/southvsnklm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",newmedia
 https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
