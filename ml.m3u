@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD 2
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Keralam (1080p)
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-129
+#EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment",Flowers TV (1p)
 http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
 #EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment",Flowers TV (serv2)
@@ -20,14 +28,30 @@ https://white-paper-38cb.keralive.workers.dev/livestream/e24ee14c395945bd8ccb065
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=747&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
-https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.myfintv.com/assets/myfin/navbar_myFinPoint_logo.svg" group-title="Business",MYFIN TV 
 https://livetv.sinuostech.com/myfintv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lNj_MH0x35GShxQBaelFreu5G6smJsRFI1XYgJbG10EQ=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Network TV
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1.png" group-title="Entertainment",NewsVision mundakayam
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CHANNEL 2
+https://skystream.in/live/channel6785/index.m3u8?hls_ctx=433949y3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4p-bjwR7FIDgfPptQF7RRu5v7FSTItN0UxFiU2fmcg03Al7gE4bsWRxcdTfCePOKKWxJYMOSjg=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",drisya pala 
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8?hls_ctx=351ad30d
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",cityvision
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7xHoEdJWv77dWXew6qPjtjqES3ms0u8QKOWfInZLqqDWs9Jxq3J-FDraq1-51lEOgzg" group-title="Entertainment",City Kasaragod
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NsLRVz9wj3bOLlceHXKa6ZaPLRT7DzqFbVSdzcG0AvVUoyBK2iiiw4syycYnuLs5IAkJ1JP8fw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",CITI palakad
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/citi/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8VqRa5H_H8F0v3MOGCfiR1qSg1aPShY533ZzY9g86rcT89IDpf46YMC12_VvZ1GJA" group-title="Entertainment",drishya kollam
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",drishya karunagapilly 
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8?hls_ctx=64s22r57
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" group-title="Entertainment",VIBGYOR TV 
 https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",Anand TV
@@ -63,12 +87,6 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_W9V4f1E7b_S96IUm_dyHSA3gQDuAvAMUQ&s" group-title="Movies",PeriyarVision
 https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
-http://217.20.112.199/asianet/index.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Keralam (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://onezoo.netz5/stream.m3u8?id=0-9-129
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News",Asianet News (360p)
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
@@ -85,8 +103,8 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in@SD" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="News",Janam TV (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="JeevanTV.in" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="General",Jeevan TV (396p)
-https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="General",Goodness (396p)
+https://keralive.com/yupp/tv.php?c=goodness-tv&e=.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://onezoo.net",Kairali TV (576p)
@@ -167,8 +185,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SelangorTV.my" tvg-logo="" group-title="General",SelangorTV (1080p)
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
-#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) 
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom Global(1080p)
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us" tvg-logo="https://i.imgur.com/qUjsV79.png" group-title="Religious",Shalom TV (720p) [Not 24/7]
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Undefined",Shekinah TV (1080p)
