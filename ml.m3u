@@ -29,7 +29,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=1662&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies 
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surya_Movies_TV_Logo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies 
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=1754&format=.m3u8
