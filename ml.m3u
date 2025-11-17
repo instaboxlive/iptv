@@ -57,6 +57,8 @@ https://onezoo.net/leo/live.php?id=710&format=.m3u8
 https://onezoo.net/leo/live.php?id=731&format=.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 tvg-id="News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Asianet_News_logo.webp/240px-Asianet_News_logo.webp.png?20230813115311" group-title="News", Asianet News (360p)
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/499bc617-f844-4b89-b873-cfdcf8e28036/0.m3u8
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News",Manorama News (1080p)
@@ -148,8 +150,6 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_W9V4f1E7b_S96IUm_dyHSA3gQDuAvAMUQ&s" group-title="Movies",PeriyarVision
 https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
-#EXTINF:-1 tvg-id="News.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News", News (360p)
-https://news.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="EagleOneNews.us@SD" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="News",Eagle One News (576p)
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-id="GarshomTV.uk" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Culture",Garshom TV (360p) [Not 24/7]
