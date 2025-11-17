@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD 
+https://onezoo.net/leo/dlive.php?id=443&format=.mpd
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD 2
@@ -52,6 +54,8 @@ https://livetv.sinuostech.com/myfintv/index.m3u8
 https://live.skystream.in/live/networkpayyanur/index.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1.png" group-title="Entertainment",NewsVision mundakayam
 https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TCN
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",CHANNEL 2
 https://skystream.in/live/channel6785/index.m3u8?hls_ctx=433949y3
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4p-bjwR7FIDgfPptQF7RRu5v7FSTItN0UxFiU2fmcg03Al7gE4bsWRxcdTfCePOKKWxJYMOSjg=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",drisya pala 
