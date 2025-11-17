@@ -13,10 +13,6 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD 2
 http://87.255.35.150:18551
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/asianet-movies-black.png" http-referrer="https://onezoo.net" group-title="Entertainment",Asianet Movies
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=459&format=.m3u8
 #EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" http-referrer="https://onezoo.net",Zee Keralam (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
@@ -29,17 +25,15 @@ https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/Su
 https://onezoo.net/leo/live.php?id=634&format=.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://i.imgur.com/dNI0Vm5.png" group-title="Comedy" http-referrer="https://onezoo.net",Surya Comedy (576p)
+#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Surya_Comedy.png" group-title="Comedy" http-referrer="https://onezoo.net",Surya Comedy (576p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=1662&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://southlive.net",Surya Movies (1080p)
-https://southlive.net/tv/sunxt.php?id=SURYA_MOVIES
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies (2)
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies 
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=1754&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://i.imgur.com/9vcdaKw.png" group-title="Music" http-referrer="https://onezoo.net",Surya Music (576p)
+#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Sura_Music_TV_Logo.png" group-title="Music" http-referrer="https://onezoo.net",Surya Music (576p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=747&format=.m3u8
