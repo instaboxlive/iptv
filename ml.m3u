@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment" http-referrer="https://playyonogames.in/",Flowers TV (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment" http-referrer="https://onezoo.net",Flowers TV (576p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
-#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment" http-referrer="https://playyonogames.in/",Flowers TV (serv2)
+#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment" http-referrer="https://onezoo.net",Flowers TV (serv2)
 https://onezoo.net/leo/live.php?id=634&format=.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://i.imgur.com/dNI0Vm5.png" group-title="Comedy" http-referrer="https://playyonogames.in/",Surya Comedy (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://i.imgur.com/dNI0Vm5.png" group-title="Comedy" http-referrer="https://onezoo.net",Surya Comedy (576p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=1662&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://playyonogames.in/",Surya Movies (1080p)
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies (1080p)
 https://southlive.net/tv/sunxt.php?id=SURYA_MOVIES
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://playyonogames.in/",Surya Movies (2)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies (2)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://white-paper-38cb.keralive.workers.dev/livestream/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://i.imgur.com/9vcdaKw.png" group-title="Music" http-referrer="https://playyonogames.in/",Surya Music (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://i.imgur.com/9vcdaKw.png" group-title="Music" http-referrer="https://onezoo.net",Surya Music (576p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=747&format=.m3u8
 #EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
@@ -69,7 +69,7 @@ http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Keralam (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-129
+https://onezoo.netz5/stream.m3u8?id=0-9-129
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News",Asianet News (360p)
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
@@ -90,13 +90,13 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://playyonogames.in/",Kairali TV (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://onezoo.net",Kairali TV (576p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=710&format=.m3u8
-#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Movies" http-referrer="https://playyonogames.in/",Kairali We (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Movies" http-referrer="https://onezoo.net",Kairali We (576p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=731&format=.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV (576p) [Not 24/7]
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
