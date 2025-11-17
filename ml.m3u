@@ -51,6 +51,10 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
 https://onezoo.net/leo/live.php?id=556&format=.m3u8
+#EXTINF:-1 tvg-id="KochuTV.in@SD" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://onezoo.net" group-title="Kids",kochu TV
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
+https://onezoo.net/leo/live.php?id=459&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://onezoo.net",Kairali TV 
