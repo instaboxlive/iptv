@@ -3,58 +3,58 @@
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD (1080p)
 https://cdn-7.pishow.tv/live/1129/master.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" http-referrer="https://onezoo.net" group-title="Entertainment",Mazhavil Manorama HD2 
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=844&format=.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Mazhavil Manorama HD2 
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=844&format=.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Undefined",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD 2
 https://m3uplay.com/leo/watch.php?id=459JP
-#EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" http-referrer="https://onezoo.net",Zee Keralam (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+#EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" http-referrer="https://m3uplay.com",Zee Keralam (1080p)
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://m3uplay.com
 http://87.255.35.150:18502
 #EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://onezoo.net" group-title="Entertainment",Flowers TV
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
+#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
 https://m3uplay.com/leo/live.m3u8?id=634&format=.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Surya_Comedy.png" group-title="Comedy" http-referrer="https://onezoo.net",Surya Comedy (576p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=1662&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surya_Movies_TV_Logo.png" group-title="Movies" http-referrer="https://onezoo.net",Surya Movies 
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=1754&format=.m3u8
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Sura_Music_TV_Logo.png" group-title="Music" http-referrer="https://onezoo.net",Surya Music (576p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=747&format=.m3u8
+#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Surya_Comedy.png" group-title="Comedy" http-referrer="https://m3uplay.com",Surya Comedy (576p)
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=1662&format=.m3u8
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surya_Movies_TV_Logo.png" group-title="Movies" http-referrer="https://m3uplay.com",Surya Movies 
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=1754&format=.m3u8
+#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Sura_Music_TV_Logo.png" group-title="Music" http-referrer="https://m3uplay.com",Surya Music (576p)
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=747&format=.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="KochuTV.in@SD" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://onezoo.net" group-title="Kids",kochu TV
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=556&format=.m3u8
+#EXTINF:-1 tvg-id="KochuTV.in@SD" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://m3uplay.com" group-title="Kids",kochu TV
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=556&format=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://onezoo.net",Kairali TV 
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=710&format=.m3u8
-#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/500px-Kairali_WE_TV_Logo.png" group-title="Movies" http-referrer="https://onezoo.net",Kairali We (576p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
-https://onezoo.net/leo/live.php?id=731&format=.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General" http-referrer="https://m3uplay.com",Kairali TV 
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=710&format=.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/500px-Kairali_WE_TV_Logo.png" group-title="Movies" http-referrer="https://m3uplay.com",Kairali We (576p)
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.php?id=731&format=.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Asianet_News_logo.webp/240px-Asianet_News_logo.webp.png?20230813115311" group-title="News", Asianet News (360p)
