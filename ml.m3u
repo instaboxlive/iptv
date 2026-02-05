@@ -16,7 +16,7 @@ https://m3uplay.com/leo/watch.php?id=459JP
 #EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" http-referrer="https://m3uplay.com",Zee Keralam (1080p)
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://m3uplay.com
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?
+https://southlive.net/player.php?mpd=https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd?&keyId=44a9e6477651b3b47f3a2b727d562835&key=1b87070d9fad5dee0a35ff014a2063a7
 #EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
