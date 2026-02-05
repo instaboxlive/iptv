@@ -79,6 +79,8 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Undefined",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lnvkfyzEab7aqlBUI8TcgOfEHZv_2-724D4AYIX8_vV6E=s900-c-k-c0x00ffffff-no-rj" group-title="Undefined",MEDIANET
+https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldzJhdhDOi2i4ivkQdMOMeYLecKI716gNlrLNpYmkkr2c=s900-c-k-c0x00ffffff-no-rj" group-title="Undefined",NTV UAE
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Undefined",ACV NVTV
