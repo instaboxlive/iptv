@@ -16,7 +16,7 @@ https://m3uplay.com/leo/watch.php?id=459JP
 #EXTINF:-1 tvg-id="ZeeKeralam.in@SD" tvg-logo="https://i.imgur.com/NileYZz.png" http-referrer="https://m3uplay.com",Zee Keralam (1080p)
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://m3uplay.com
-http://87.255.35.150:18502
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?
 #EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
