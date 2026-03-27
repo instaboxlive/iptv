@@ -6,7 +6,7 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Mazhavil Manorama HD2 
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
-https://m3uplay.com/leo/live.php?id=844&format=.m3u8
+https://mmtv-vglivessai.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/1cc4e0b0-8083-4a36-91e4-9b2168789809/3.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Undefined",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
