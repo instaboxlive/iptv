@@ -1,0 +1,971 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",4ACETV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=xoQ8tvFLQ70
+#EXTINF:-1 tvg-id="",4ACETV CLASSIC HITS (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
+#EXTINF:-1 tvg-id="",4K TRAVEL TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8?ads.vf=ADK_AMIzrfu
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC
+#EXTINF:-1 tvg-id="",35MM (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/35mm/index.m3u8?ads.vf=qqy_QVwkdkC
+#EXTINF:-1 tvg-id="",a-z Best Classic TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8?ads.vf=0RN164SO2bG
+#EXTINF:-1 tvg-id="",a-z Classic Flix (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8?ads.vf=7-VUi572FgK
+#EXTINF:-1 tvg-id="",a-z Western Grit (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8?ads.vf=4TlF3ABNLHW
+#EXTINF:-1 tvg-id="",Aaj Ki Khabar (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8?ads.vf=aDW1W_0t2nW
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD",ABN Andhra Jyothy (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe
+#EXTINF:-1 tvg-id="",ACI On The Go (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8?ads.vf=EoTB4HqnHbi
+#EXTINF:-1 tvg-id="ACLCornholeTV.us@SD",ACL Cornhole TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Africanews (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=Cxy9froLXMW
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za@SD",Afriwood Blockbuster (720p)
+https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8?ads.vf=5D6eIL8_jay
+#EXTINF:-1 tvg-id="AmarUjala.in@SD",Amar Ujala (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8?ads.vf=d9C-dTw7fve
+#EXTINF:-1 tvg-id="",Amplified Voices TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0NEDHNB14204IE5V6CIX/hls3/now,-1m/m.m3u8?ads.vf=4dB3IGAlyqG
+#EXTINF:-1 tvg-id="AMusicChannel.ng@SD",AMusic Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe
+#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS
+#EXTINF:-1 tvg-id="",Ann Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ann-channel/index.m3u8?ads.vf=K6lWytDiscO
+#EXTINF:-1 tvg-id="ArgusNews.in@SD",Argus News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G
+#EXTINF:-1 tvg-id="",Atmadarshan Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8?ads.vf=7uUA7ZPQxdm
+#EXTINF:-1 tvg-id="",AWE Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=b8WZfP1_RIy
+#EXTINF:-1 tvg-id="",BarkTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/barktv/barkt.m3u8?ads.vf=YCeU-sD59Qm
+#EXTINF:-1 tvg-id="BhakthiSiri.in@SD",Bhakthi Siri (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii
+#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=FQLn2P7KyXm
+#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W
+#EXTINF:-1 tvg-id="BIGTV.in@SD",Big Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=T2i6boC2Cna
+#EXTINF:-1 tvg-id="",Bleav Football (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8?ads.vf=MSzrK3wFsnu
+#EXTINF:-1 tvg-id="BlessTV.jm@SD",Bless TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=V3yg36zq5AW
+#EXTINF:-1 tvg-id="",Bollywood Masala (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=SyLjWbscWiy
+#EXTINF:-1 tvg-id="",Bowling TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8?ads.vf=-f5KtXrabnW
+#EXTINF:-1 tvg-id="BoxCinema.in@SD",Box Cinema (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
+#EXTINF:-1 tvg-id="",Box Gamers (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8?ads.vf=6I1IGwWSxE4
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@SD",BritAsiaTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=crMKPnj9RuG
+#EXTINF:-1 tvg-id="",CarbonTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0QU2LXMHQHCESK6R27B8/hls3/now,-1m/m.m3u8?ads.vf=AZYcqVziuxu
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST",Cartoon Classics (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
+#EXTINF:-1 tvg-id="",CG Central (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G40OUX9H7Z2JYW72Y3ZY/hls3/now,-1m/m.m3u8?ads.vf=dwx0lhL-F_8
+#EXTINF:-1 tvg-id="",Cigar TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8?ads.vf=r8Qicpt5w_C
+#EXTINF:-1 tvg-id="CinemaHausa.za@SD",Cinema Hausa (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
+#EXTINF:-1 tvg-id="",Cinema Yoruba (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
+#EXTINF:-1 tvg-id="",CJC Television Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cjc-television-network/55e06661da359ab51bbb2d563521f4b2.m3u8?ads.vf=MyS88Juu55G
+#EXTINF:-1 tvg-id="",CN News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cn-news/index.m3u8?ads.vf=VKCO5qOgIx8
+#EXTINF:-1 tvg-id="",Colorized.TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8?ads.vf=depkvW2VdbC
+#EXTINF:-1 tvg-id="",Comedy Classics (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.vf=ihIlkNrNKSy
+#EXTINF:-1 tvg-id="",Comercio TV (1080p)
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",CraftsyTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8?ads.vf=DZhyFIIAWB4
+#EXTINF:-1 tvg-id="",crema.tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/master.m3u8?ads.vf=bp0PeePtcrO
+#EXTINF:-1 tvg-id="",Crime & Evidence (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crime-and-evidence/video.m3u8?ads.vf=8-m_qjKZTGu
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8?ads.vf=VuEjxV-h6Xe
+#EXTINF:-1 tvg-id="",CUISINE CULTURE (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cuisine-culture/manifest.m3u8?ads.vf=ooQIdkKW8Pi
+#EXTINF:-1 tvg-id="",DA News Plus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8?ads.vf=AyISeWRaL8G
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar Español (720p)
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm
+#EXTINF:-1 tvg-id="",DJ Central TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/PB75VYPS2NI9IEB7I7T1/hls3/now,-1m/m.m3u8?ads.vf=JzyPN99TOwa
+#EXTINF:-1 tvg-id="DroneTV.us@SD",DroneTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
+#EXTINF:-1 tvg-id="",Elevation Church Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/elevation-church-network/playlist.m3u8?ads.vf=-Zd8ogbOmAi
+#EXTINF:-1 tvg-id="",ENCORE+ (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8?ads.vf=wd1UwOjiYBS
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=OUBOiYANcV0
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Español (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK
+#EXTINF:-1 tvg-id="",FEVA MUSIC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=tnxM2v6NH4m
+#EXTINF:-1 tvg-id="FEVATV.ca@SD",FEVA TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
+#EXTINF:-1 tvg-id="",Fitness Rewind by Collage Video (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/6JK51FOJE3NCVH2POB9E/hls3/now,-1m/m.m3u8?ads.vf=RHZvd0mAH-G
+#EXTINF:-1 tvg-id="",FloRacing 24/7 (1080p)
+https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",Foosball TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foosball-tv/manifest.m3u8?ads.vf=Zz87lIUgABi
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA",FUEL TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu
+#EXTINF:-1 tvg-id="",Garv Punjab Gurbani (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8?ads.vf=3s3toJC4g3i
+#EXTINF:-1 tvg-id="GhostDimension.us@UK",Ghost Dimension (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
+#EXTINF:-1 tvg-id="",Golf Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/manifest.m3u8?ads.vf=JfEbVnzdK_W
+#EXTINF:-1 tvg-id="",Green Chillies TV- Zindagi ka Tadka! (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8?ads.vf=rF2BAuiapmm
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.vf=kWp29zpXm1y
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8?ads.vf=BTLYq9OkYrW
+#EXTINF:-1 tvg-id="",Haryana Beat (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8?ads.vf=W4fqQJExwzu
+#EXTINF:-1 tvg-id="",HIP HOP TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8?ads.vf=y5kiBbtngdq
+#EXTINF:-1 tvg-id="",HITS MEXICANOS (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8?ads.vf=vc24NGfvvqe
+#EXTINF:-1 tvg-id="HorizonSports.us@SD",Horizon Sports (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
+#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
+#EXTINF:-1 tvg-id="",In Touch+ (1080p)
+https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",India Daily 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-daily-24x7/index.m3u8?ads.vf=gZKszyLINNq
+#EXTINF:-1 tvg-id="",Indian News (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8?ads.vf=CP27TXRaa-O
+#EXTINF:-1 tvg-id="",IndieBox (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now,-1m/m.m3u8?ads.vf=gQ6ZHX1XCRW
+#EXTINF:-1 tvg-id="",Janataa TV Kannada (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/janataa-tv-kannada/index.m3u8?ads.vf=CVzrhUWs7jq
+#EXTINF:-1 tvg-id="KaloopyTV.us@SD",Kaloopy (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
+#EXTINF:-1 tvg-id="",Kalyan TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kalyan-tv/index.m3u8?ads.vf=N97igK1qjJK
+#EXTINF:-1 tvg-id="",Kartavya TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kartavya-tv/index.m3u8?ads.vf=JNOFwoi1DXW
+#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq
+#EXTINF:-1 tvg-id="KozoomTV.fr@SD",KOZOOM TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
+#EXTINF:-1 tvg-id="KTVBangla.in@SD",KTV Bangla (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8?ads.vf=n-PW1kNShHi
+#EXTINF:-1 tvg-id="",Lakshya TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8?ads.vf=o5tDPMkI440
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES
+#EXTINF:-1 tvg-id="LoneStar.us@US",Lone Star (1080p)
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8
+#EXTINF:-1 tvg-id="MPlus.sa@SD",M+ (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=99_BajuDhjC
+#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-max/index.m3u8?ads.vf=VqfDC1Vnzuy
+#EXTINF:-1 tvg-id="MahaaNews.in@SD",Mahaa News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8?ads.vf=_1jxa_r1i5G
+#EXTINF:-1 tvg-id="",Mahua Khabar (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8?ads.vf=cjpu5dTXKAu
+#EXTINF:-1 tvg-id="",Mahua Play (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8?ads.vf=ss7qHgRK8R8
+#EXTINF:-1 tvg-id="",Mediacorp Entertainment – English (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.vf=g48qoh_qHLS
+#EXTINF:-1 tvg-id="",Mediacorp Entertainment – Tamil (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
+#EXTINF:-1 tvg-id="",Mi Miedo Canal (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8?ads.vf=MY55nkfJHZC
+#EXTINF:-1 tvg-id="",Mi Raza Canal (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8?ads.vf=Ntp7H8Ff1Ky
+#EXTINF:-1 tvg-id="",Mi Raza Canal Plus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8?ads.vf=Ql0SI2Jofy8
+#EXTINF:-1 tvg-id="",MomCave (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/22G5UVCESMIOP38D3YET/hls3/now,-1m/m.m3u8?ads.vf=YWz49aZQN0y
+#EXTINF:-1 tvg-id="",MotorRacing (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8?ads.vf=CBI_YqvusWO
+#EXTINF:-1 tvg-id="MunsifTV.in@SD",Munsif Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=bgM_sblbBYC
+#EXTINF:-1 tvg-id="",Nakshatra Digital Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nakshatra-digital-tv/index.m3u8?ads.vf=PjzI-khWYCe
+#EXTINF:-1 tvg-id="",Namma Bangalore (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8?ads.vf=eSzAQfnJzCG
+#EXTINF:-1 tvg-id="",NatureStream.tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD",News India 24X7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8?ads.vf=4diMqEgh9hm
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD",News Malayalam 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8?ads.vf=-yNYTSQyYSy
+#EXTINF:-1 tvg-id="",News Marathi 24X7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8?ads.vf=frkc_BsxnRO
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD",News Tamil 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8?ads.vf=uQa1v-Il2F0
+#EXTINF:-1 tvg-id="Nigbati.ng@SD",Nigbati TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO
+#EXTINF:-1 tvg-id="",NOMADslow tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8?ads.vf=zPMbN7Yu4QW
+#EXTINF:-1 tvg-id="Novocomedy.fr@SD",Novo Comedy (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8?ads.vf=SVKVXmuK18W
+#EXTINF:-1 tvg-id="",Old West TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8?ads.vf=m_KnvpUXoSu
+#EXTINF:-1 tvg-id="OnTV4U.us@SD",ONTV4U (1080p)
+https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
+#EXTINF:-1 tvg-id="",OurVinyl (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.vf=aJG-o6ZGH4y
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4
+#EXTINF:-1 tvg-id="",P18 News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/p18-news/index.m3u8?ads.vf=IhM3b64Cz34
+#EXTINF:-1 tvg-id="",PLL Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8?ads.vf=ImQhLVRpatq
+#EXTINF:-1 tvg-id="PNCDrama.eg@SD",PNC Drama (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S
+#EXTINF:-1 tvg-id="",Powersports World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8?ads.vf=6Tj0ccfKg3S
+#EXTINF:-1 tvg-id="",POWERtube TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powertube-tv/master.m3u8?ads.vf=-XmFHPOiUne
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD",Prameya News7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.vf=OOr8NB75jnK
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD",Pratham Khabar 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=BVw-POiR-D8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca@SD",Prime Asia Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=VB6jQQgalOa
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G
+#EXTINF:-1 tvg-id="",Punjabi Shorts (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-shorts/index.m3u8?ads.vf=CaFQYzV2DFe
+#EXTINF:-1 tvg-id="Revry.us@SD",Revry (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry/playlist.m3u8?ads.vf=qWDpCZ1Hina
+#EXTINF:-1 tvg-id="RevryHer.us@SD",Revry Her (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC
+#EXTINF:-1 tvg-id="RightNowTV.us@SD",Right Now Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
+#EXTINF:-1 tvg-id="",Rock Solid Wrestling TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8?ads.vf=HkyN6qE7bvi
+#EXTINF:-1 tvg-id="",Rockola Television (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8?ads.vf=xV5XOQG_ptm
+#EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=omZ-ScCp1GC
+#EXTINF:-1 tvg-id="RotanaAflamPlus.sa@SD",Rotana Aflam+ (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=sU-keyuh83m
+#EXTINF:-1 tvg-id="",Rozana Spokesman (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rozana-spokesman/index.m3u8?ads.vf=yPcCYlpkop4
+#EXTINF:-1 tvg-id="RVTV.us@HD",RVTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rvtv/index.m3u8?ads.vf=thbXcVfTGsm
+#EXTINF:-1 tvg-id="",Saga Music (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8?ads.vf=Qu3rnC7fGUG
+#EXTINF:-1 tvg-id="SakshiTV.in@SD",Sakshi Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8?ads.vf=V-hlmSQNYO4
+#EXTINF:-1 tvg-id="SanaTV.in@SD",Sana Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=VcGQSvUuGWi
+#EXTINF:-1 tvg-id="SandeshNews.in@SD",Sandesh News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8?ads.vf=-cicf8IVlO8
+#EXTINF:-1 tvg-id="",Schwab Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8?ads.vf=rcQ6ACe-b5m
+#EXTINF:-1 tvg-id="",Skull Bound TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8?ads.vf=AwvAEkPwhPa
+#EXTINF:-1 tvg-id="SportsConnect.za@SD",Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 tvg-id="",Sports First TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
+#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
+#EXTINF:-1 tvg-id="SportsTVPlus.us@SD",SportsTVPlus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
+#EXTINF:-1 tvg-id="",spot on news (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/2M5V61S6YGPGM4TXJIXL/hls3/now,-1m/m.m3u8?ads.vf=bcf3ZhFbOiy
+#EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=6ZWahdKAvmG
+#EXTINF:-1 tvg-id="",Sundrani Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sundrani-tv/index.m3u8?ads.vf=4YyM2llS7-K
+#EXTINF:-1 tvg-id="",Swar Shree (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8?ads.vf=N85canAP53y
+#EXTINF:-1 tvg-id="TabbarHits.in@SD",Tabbar Hits (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
+#EXTINF:-1 tvg-id="",Tara Tv (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
+#EXTINF:-1 tvg-id="TheBoatShow.us@SD",The Boat Show (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=kS8ONlN67Ay
+#EXTINF:-1 tvg-id="",The Holiday TV Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8?ads.vf=3xoSfXkB08C
+#EXTINF:-1 tvg-id="TheReuters60.pl@FAST",The Reuters 60 (1080p)
+https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",The Unmute (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-unmute/index.m3u8?ads.vf=jq2nZx1sYrK
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD",Times Now Navbharat (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8?ads.vf=IUKzRul6TaG
+#EXTINF:-1 tvg-id="",Top News Marathi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/top-news-marathi/index.m3u8?ads.vf=9nH59SigbNW
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD",TRACE Brazuca (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0
+#EXTINF:-1 tvg-id="TraceLatina.uk@SD",TRACE Latina (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
+#EXTINF:-1 tvg-id="",TRACE UK (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD",TRACE Urban (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.vf=TBE_v7iuzNi
+#EXTINF:-1 tvg-id="TrueAfrican.za@SD",True African (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8
+#EXTINF:-1 tvg-id="TrueHistory.us@SD",True History (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8?ads.vf=G1hGexOV3sS
+#EXTINF:-1 tvg-id="",Trufa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trufa/manifest.m3u8?ads.vf=k_ylxHnAYa8
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8?ads.vf=iJMugprTh74
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8?ads.vf=CdIAZPYSkwa
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8?ads.vf=Bly85rHphki
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8?ads.vf=FNdRKVQYaHW
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=gP_uSSiOtBu
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8?ads.vf=VbYdEvvCtAG
+#EXTINF:-1 tvg-id="TVPunjab.ca@SD",TV Punjab (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm
+#EXTINF:-1 tvg-id="",UnchainedTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8?ads.vf=U2bdq2GJGni
+#EXTINF:-1 tvg-id="",Unleashed by DOGTV (1080p)
+https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",Urban Action Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8?ads.vf=eieiHoUaPzC
+#EXTINF:-1 tvg-id="",Vande Bharat News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8?ads.vf=FOrCnxHlHG8
+#EXTINF:-1 tvg-id="ViajarTV.ar@SD",Viajar TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS
+#EXTINF:-1 tvg-id="",Wai Lana (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wai-lana/manifest.m3u8?ads.vf=y8vDlba1RYC
+#EXTINF:-1 tvg-id="",WFN: World Fishing Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
+#EXTINF:-1 tvg-id="WildTV.ca@SD",Wild TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8?ads.vf=Q6fDmijf_hK
+#EXTINF:-1 tvg-id="WineWatchesWhiskey.us@HD",Wine Watches & Whiskey (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wine-watches-whiskey/index.m3u8?ads.vf=3HDBWa0Eh40
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.vf=EHEabFVWNva
+#EXTINF:-1 tvg-id="",World Punjabi Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/world-punjabi-tv/index.m3u8?ads.vf=9V4G7iab_c0
+#EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8?ads.vf=CA7XvKi0sQq
+#EXTINF:-1 tvg-id="",Zoomer TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC
+#EXTINF:-1 tvg-id="",1S News (576p)
+https://mumt03.tangotv.in/1SNEWS/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (576p)
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="",Anandam Abi TV (576p)
+https://mumt02.tangotv.in/ABITV/index.m3u8
+#EXTINF:-1 tvg-id="",Anandam TV (576p)
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD",ANB News (576p)
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="APN.in@SD",APN (576p)
+https://mumt01.tangotv.in/APN/index.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD",Apna Punjab
+https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
+#EXTINF:-1 tvg-id="ArgusNews.in@SD",Argus News (576p)
+https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD",Aryan TV National (576p)
+https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD",Assam Talks (576p)
+https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
+https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (576p)
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (576p)
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="BhaktiSagar.in@SD",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+#EXTINF:-1 tvg-id="",BS TV (576p)
+https://mumt02.tangotv.in/BSTV/index.m3u8
+#EXTINF:-1 tvg-id="BVG.in@SD",BVG (576p)
+https://mumt05.tangotv.in/BVG/index.m3u8
+#EXTINF:-1 tvg-id="CalvaryTV.in@SD",Calvary TV (576p)
+https://mumt04.tangotv.in/CALVARYTV/index.m3u8
+#EXTINF:-1 tvg-id="Captain.in@SD",Captain (576p)
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+#EXTINF:-1 tvg-id="",Chaukas TV (576p)
+https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
+#EXTINF:-1 tvg-id="",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+#EXTINF:-1 tvg-id="CVRNews.in@SD",CVR News (576p)
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8
+#EXTINF:-1 tvg-id="",DA News Plus (576p)
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-id="Dabangg.in@SD",Dabangg (576p)
+https://mumt01.tangotv.in/DABANGG/index.m3u8
+#EXTINF:-1 tvg-id="Darshan24.in@SD",Darshan 24 (576p)
+https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (576p)
+https://mumt05.tangotv.in/DDASSAM/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla (576p)
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (576p)
+https://mumt01.tangotv.in/DDBHARATI/index.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (576p)
+https://mumt03.tangotv.in/DDBIHAR/index.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD",DD Girnar (576p)
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (576p)
+https://mumt05.tangotv.in/DDINDIA/index.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (576p)
+https://mumt05.tangotv.in/DDKASHIR/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (576p)
+https://mumt04.tangotv.in/DDKISAN/index.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (576p)
+https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (576p)
+https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (576p)
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (576p)
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD",DD News (576p)
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD",DD Odia (576p)
+https://mumt05.tangotv.in/DDODIA/index.m3u8
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (Fastway) (576p)
+https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri (576p)
+https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri (576p)
+https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports (576p)
+https://mumt02.tangotv.in/DDSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD",DD Tamil (576p)
+https://mumt04.tangotv.in/DDTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="DDTripura.in@SD",DD Tripura (576p)
+https://mumt01.tangotv.in/DDTRIPURA/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD",DD Uttar Pradesh (576p)
+https://mumt01.tangotv.in/DDUTTARPRADESH/index.m3u8
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD",DD Yadagiri (576p)
+https://mumt05.tangotv.in/DDYADAGIRI/index.m3u8
+#EXTINF:-1 tvg-id="Dhamaal.in@SD",Dhamaal (576p)
+https://mumt03.tangotv.in/DHAMAAL/index.m3u8
+#EXTINF:-1 tvg-id="DharmSandesh.in@SD",Dharm Sandesh (576p)
+https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
+#EXTINF:-1 tvg-id="DishaTV.in@SD",Disha TV (576p)
+https://mumt04.tangotv.in/DISHATV/index.m3u8
+#EXTINF:-1 tvg-id="DY365.in@SD",DY 365 (576p)
+https://mumt04.tangotv.in/DY365/index.m3u8
+#EXTINF:-1 tvg-id="E24.in@SD",E 24 (576p)
+https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (576p)
+https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
+#EXTINF:-1 tvg-id="",Evergreen Hits
+https://mumt02.tangotv.in/EVERGREENHITS/index.m3u8
+#EXTINF:-1 tvg-id="FaktMarathi.in@SD",Fakt Marathi (576p)
+https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="",Fast Mix (576p)
+https://mumt01.tangotv.in/FASTMIX/index.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (576p)
+https://mumt05.tangotv.in/FATEHTV/index.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD",First India News (576p)
+https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD",Food Food (576p)
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-id="",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-id="GoodNewsTV.in@SD",Goodnews TV (576p)
+https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8
+#EXTINF:-1 tvg-id="GraceTV.in@SD",Grace TV (576p)
+https://mumt03.tangotv.in/GRACETV/index.m3u8
+#EXTINF:-1 tvg-id="GSTV.in@SD",GS TV (576p)
+https://mumt05.tangotv.in/GSTV/index.m3u8
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (576p)
+https://mumt01.tangotv.in/GTC/index.m3u8
+#EXTINF:-1 tvg-id="",Guarantee News (576p)
+https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (576p)
+https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
+#EXTINF:-1 tvg-id="HarKhabar.in@SD",Har Khabar (576p)
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
+#EXTINF:-1 tvg-id="HiDost.in@SD",Hi Dost! (576p)
+https://mumt03.tangotv.in/HIDOST/index.m3u8
+#EXTINF:-1 tvg-id="",Hindi Hits (576p)
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD",Hindi Khabar (576p)
+https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD",Hindu Dharmam (576p)
+https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8
+#EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (576p)
+https://mumt04.tangotv.in/HMTV/index.m3u8
+#EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p)
+https://mumt02.tangotv.in/HNN24X7/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
+https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD",IBC 24 (576p)
+https://mumt05.tangotv.in/IBC24/index.m3u8
+#EXTINF:-1 tvg-id="Ind24.in@SD",Ind 24 (576p)
+https://mumt02.tangotv.in/IND24/index.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD",India Ahead (576p)
+https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (576p)
+https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (576p)
+https://mumt01.tangotv.in/INDIATV/index.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in@SD",India Voice (576p)
+https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in@SD",INH 24x7 (576p)
+https://mumt01.tangotv.in/INH24X7/index.m3u8
+#EXTINF:-1 tvg-id="Insync.in@SD",Insync (576p)
+https://mumt04.tangotv.in/INSYNC/index.m3u8
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8
+#EXTINF:-1 tvg-id="JaiMaharashtra.in@SD",Jai Maharashtra (576p)
+https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD",Jaihind TV (576p)
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
+#EXTINF:-1 tvg-id="JanTV.in@SD",Jan TV (576p)
+https://mumt03.tangotv.in/JANTV/index.m3u8
+#EXTINF:-1 tvg-id="JanamTV.in@SD",Janam TV (576p)
+https://mumt03.tangotv.in/JANAMTV/index.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in@SD",Jeevan TV (576p)
+https://mumt04.tangotv.in/JEEVANTV/index.m3u8
+#EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
+https://mumt03.tangotv.in/JINVANI/index.m3u8
+#EXTINF:-1 tvg-id="",Josh TV (576p)
+https://mumt03.tangotv.in/JOSHTV/index.m3u8
+#EXTINF:-1 tvg-id="KNewsIndia.in@SD",K News India (576p)
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in@SD",Kairali News (576p)
+https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in@SD",Kairali TV (576p)
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in@SD",Kairali We (576p)
+https://mumt01.tangotv.in/WETV/index.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD",Kalinga TV (576p)
+https://mumt01.tangotv.in/KALINGATV/index.m3u8
+#EXTINF:-1 tvg-id="KashishNews.in@SD",Kashish News (576p)
+https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8
+#EXTINF:-1 tvg-id="KaumudyTV.in@SD",Kaumudy TV (576p)
+https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
+#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
+https://mumt03.tangotv.in/KERALAVISION/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD",Khabar Fast (576p)
+https://mumt04.tangotv.in/KHABARFAST/index.m3u8
+#EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD",Khabrain Abhi Tak (576p)
+https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD",Khushboo Bangla (576p)
+https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata TV (576p)
+https://mumt01.tangotv.in/KOLKATATV/index.m3u8
+#EXTINF:-1 tvg-id="",Live Times (576p)
+https://mumt01.tangotv.in/LIVETIMES/index.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (576p)
+https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
+https://mumt01.tangotv.in/MNADU/index.m3u8
+#EXTINF:-1 tvg-id="MadhaTV.in@SD",Madha TV (576p)
+https://mumt02.tangotv.in/MADHATV/index.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in@SD",Maha Movie (576p)
+https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="Maiboli.in@SD",Maiboli (576p)
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8
+#EXTINF:-1 tvg-id="",Maina TV (576p)
+https://mumt03.tangotv.in/MAINATV/index.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (576p)
+https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p)
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+#EXTINF:-1 tvg-id="",Matti TV (576p)
+https://mumt03.tangotv.in/MATTITV/index.m3u8
+#EXTINF:-1 tvg-id="MBCTV.in@SD",MBC TV (576p)
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-id="MelodyHits.ca@SD",Melody Hits (576p)
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+#EXTINF:-1 tvg-id="Mh1Music.in@SD",Mh 1 Music (576p)
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (576p)
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-id="MHOneDilSe.in@SD",MH One Dil Se (576p)
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-id="MHOneMovies.in@SD",MH One Movies (576p)
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="",Mojo TV (576p)
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
+#EXTINF:-1 tvg-id="MoviePlex.in@SD",Movieplex (576p)
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 tvg-id="NENews.in@SD",NE News (576p)
+https://mumt05.tangotv.in/NENEWS/index.m3u8
+#EXTINF:-1 tvg-id="News11.in@SD",News 11 (576p)
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="OMTV.in@SD",OM TV (576p)
+https://mumt01.tangotv.in/OMTV/index.m3u8
+#EXTINF:-1 tvg-id="",Padharo Sa (576p)
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8
+#EXTINF:-1 tvg-id="",Pankh (576p)
+https://mumt04.tangotv.in/PANKH/index.m3u8
+#EXTINF:-1 tvg-id="ParasGold.in@SD",Paras Gold (576p)
+https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD",Peace Of Mind TV (576p)
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-id="",Pear TV (576p)
+https://mumt01.tangotv.in/PEARTV/index.m3u8
+#EXTINF:-1 tvg-id="PublicMovies.in@SD",Public Movies (576p)
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="",Punjabi Beats
+https://mumt02.tangotv.in/PUNJABIBEATS/index.m3u8
+#EXTINF:-1 tvg-id="",Punjabi Music HD (720p)
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-id="",Punjabi TV (720p)
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
+https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
+#EXTINF:-1 tvg-id="",Ragni TV (576p)
+https://mumt04.tangotv.in/RAGNITV/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsKannada.in@SD",Raj News Kannada (576p)
+https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD",Raj News Malayalam (576p)
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD",Raj News Telugu (576p)
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="Ramdhenu.in@SD",Ramdhenu (576p)
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-id="Rang.in@SD",Rang (576p)
+https://mumt01.tangotv.in/RANG/index.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD",Rengoni (576p)
+https://mumt05.tangotv.in/RENGONI/index.m3u8
+#EXTINF:-1 tvg-id="",Saang TV (720p)
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
+#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD",Sadhna Plus News (576p)
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
+#EXTINF:-1 tvg-id="SahanaNews.in@SD",Sahana News (576p)
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-id="SindhTV.pk@SD",Sindh TV (576p)
+https://mumt01.tangotv.in/SINDHTV/index.m3u8
+#EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1 tvg-id="StudioYuva.in@SD",Studio Yuva (576p)
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 tvg-id="",Tadka (576p)
+https://mumt03.tangotv.in/TADKA/index.m3u8
+#EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-id="",UTV Anandam (576p)
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in@SD",Vasanth TV (576p)
+https://mumt04.tangotv.in/VASANTHTV/index.m3u8
+#EXTINF:-1 tvg-id="VissaTV.in@SD",Vissa TV (576p)
+https://mumt02.tangotv.in/VISSATV/index.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD",DD Chandana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD",DD Chhattisgarh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD",DD Girnar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD",DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="DDHaryana.in@SD",DD Haryana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD",DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD",DD Jharkhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@HD",DD News HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD",DD Odia (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD",DD Punjabi (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD",DD Tamil (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="DDTripura.in@SD",DD Tripura (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+#EXTINF:-1 tvg-id="DDUrdu.in@SD",DD Urdu (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD",DD Uttar Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarakhand.in@SD",DD Uttarakhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD",DD Yadagiri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
