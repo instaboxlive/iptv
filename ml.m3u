@@ -35,7 +35,7 @@ https://m3uplay.com/leo/live.php?id=710&format=.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/500px-Kairali_WE_TV_Logo.png" group-title="Movies" http-referrer="https://m3uplay.com",Kairali We (576p)
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
-https://m3uplay.com/leo/live.php?id=731&format=.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
