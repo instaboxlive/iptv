@@ -40,6 +40,12 @@ https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
 https://m3uplay.com/leo/live.m3u8?id=634&format=.m3u8
+
+#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://m3uplay.com" group-title="Entertainment",zee kl
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.m3u8?id=1641&format=.m3u8
+
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
