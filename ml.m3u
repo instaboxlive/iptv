@@ -15,13 +15,13 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetPlus.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Asianet_Plus_Logo.jpg"  group-title="General" http-referrer="https://m3uplay.com",Asianet Plus (396p)
+#EXTINF:-1 tvg-id="AsianetPlus.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Asianet_Plus_Logo.jpg"  http-referrer="https://m3uplay.com",Asianet Plus (396p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png"  group-title="General" http-referrer="https://m3uplay.com",Asianet (576p) 
+#EXTINF:-1 tvg-id="Asianet.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png" http-referrer="https://m3uplay.com",Asianet (576p) 
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" group-title="General" http-referrer="https://m3uplay.com",Asianet Movies (576p)
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" http-referrer="https://m3uplay.com",Asianet Movies (576p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (360p)
