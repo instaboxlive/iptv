@@ -69,7 +69,7 @@ https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lnvkfyzEab7aqlBUI8TcgOfEHZv_2-724D4AYIX8_vV6E=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",MEDIANET
 https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldzJhdhDOi2i4ivkQdMOMeYLecKI716gNlrLNpYmkkr2c=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",NTV UAE
-https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Regional",ACV NVTV
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lsLIA-fDUXO0C-AY2-Q8R2arfT-Y0k18FfVMcaFdwgDor3SIp9qu4o1duwhmXmYLLh9bW1pefQ=s900-c-k-c0x00ffffff-no-rj" group-title="Business",MYFIN TV 
