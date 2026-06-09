@@ -64,10 +64,121 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Religious",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="ts1885" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (1080p)
+#EXTINF:-1 tvg-id="ts1885" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
 https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lnvkfyzEab7aqlBUI8TcgOfEHZv_2-724D4AYIX8_vV6E=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",MEDIANET
+https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldzJhdhDOi2i4ivkQdMOMeYLecKI716gNlrLNpYmkkr2c=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",NTV UAE
+https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Regional",ACV NVTV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lsLIA-fDUXO0C-AY2-Q8R2arfT-Y0k18FfVMcaFdwgDor3SIp9qu4o1duwhmXmYLLh9bW1pefQ=s900-c-k-c0x00ffffff-no-rj" group-title="Business",MYFIN TV 
+https://livetv.sinuostech.com/myfintv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6nlTdGSFBt0JvjmGrhEM01xsJpq6cgei0DAPFc8UdBtCQ1s4aBjNg3FPzmidh1WwbYw" group-title="Regional",NVISION 
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6nlTdGSFBt0JvjmGrhEM01xsJpq6cgei0DAPFc8UdBtCQ1s4aBjNg3FPzmidh1WwbYw" group-title="Regional",NVISION MUSIC
+https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lNj_MH0x35GShxQBaelFreu5G6smJsRFI1XYgJbG10EQ=s160-c-k-c0x00ffffff-no-rj" group-title="Regional",Network TV
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1.png" group-title="Regional",NewsVision mundakayam
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5VVPxKpQfz6dalkkS5alzkLXbtvXO4r8VQ0N7xTDOU6S_hMqSFb-_AmxXUi59rfKmLU" group-title="Regional",Waynad Vision
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",TCN
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",CHANNEL 2
+https://skystream.in/live/channel6785/index.m3u8?hls_ctx=433949y3
+#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Regional",Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4p-bjwR7FIDgfPptQF7RRu5v7FSTItN0UxFiU2fmcg03Al7gE4bsWRxcdTfCePOKKWxJYMOSjg=s160-c-k-c0x00ffffff-no-rj" group-title="Regional",drisya pala 
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8?hls_ctx=351ad30d
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM=w240-h480-rw" group-title="Regional",cityvision Kannur
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7xHoEdJWv77dWXew6qPjtjqES3ms0u8QKOWfInZLqqDWs9Jxq3J-FDraq1-51lEOgzg" group-title="Regional",City Kasaragod
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NsLRVz9wj3bOLlceHXKa6ZaPLRT7DzqFbVSdzcG0AvVUoyBK2iiiw4syycYnuLs5IAkJ1JP8fw=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",CITI palakad
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/citi/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8VqRa5H_H8F0v3MOGCfiR1qSg1aPShY533ZzY9g86rcT89IDpf46YMC12_VvZ1GJA" group-title="Regional",drishya kollam
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHWmSfb0J8xCdjsPNOTwzaIq_Jp6uKL49wg&s" group-title="Regional",drishya karunagapilly 
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8?hls_ctx=64s22r57
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" group-title="Regional",VIBGYOR TV 
+https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Regional",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",TEAKVISION
+https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c0XCAxbd1p_S41BQNopsuQyNkboXdDjw1c3i69gb-7vLMQ5wOTbiNSJ74pPf8eGIhF4=w600-h300-pc0xffffff-pd" group-title="Regional",NattuVartha
+https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",KCN
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",test
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://malabarnewschannel.com/wp-content/uploads/2020/10/LOGO.png" group-title="Regional",Malabar News
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nWnKxj0YjV3w4cx2YR4urUQZP8K7yccZ-mnry5jqCzUQ=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",M Plus
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",CCTV PRADESHIKAM
+https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",CCTV CINEMA
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",Starnet
+https://play.applelive.in/starnettv/starnettv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ikrVewgTGymeD_rJ7r4SYzMPjtLTGaLqyoPf99CZ5patHIH4eNcM51hiZx4v2eIDRy8UUTZK=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",SOUTH VISION
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/30Bid3flh55IEl_waHnaTDgOW01qVBvdLUng3lp_YOes_ANUk2Lx9wi-CBWA7KT1WDWdEcr6=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",KVTV
+https://edge1.tikilive.com/livehttporigin_tikilive/56275/amlst:mainstream/playlist.m3u8?p=local&op_id=19&ts_chunk_length=6&userId=0&channelId=56275&stime=1763371765&etime=1763458165&token=0d238740773451d45b248&ip=103.197.114.117&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F142.0.0.0+Safari%2F537.36&live=1&site_page=https%253A%252F%252Fwww.tikilive.com%252Fchannel%252Fnone-1&domain=tikilive.com&cb=1763371175&ccpa=1---&consent=0&device_type=&did=&gdpr=0&h=720&w=1080&livestream=1&min_ad_duration=5&max_ad_duration=66&site_domain=https%3A%2F%2Fwww.tikilive.com%2F&site_name=TikiLIVE%C2%AE+v9.3.0&hls_marker=1&debug=true&gender=&age=&preroll=1&preroll_duration=66&content_genre=News&content_id=56275&content_title=KVTV%2BNEWS%2BCHANNEL&network_name=kvtv&content_owner=147230&viewing_user=guest&oid=19&bid=147230
+#EXTINF:-1 tvg-logo="" group-title="Regional",newmedia
+https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
+#EXTINF:-1 tvg-logo="" group-title="Regional",test
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regional",SWANTHAM
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_W9V4f1E7b_S96IUm_dyHSA3gQDuAvAMUQ&s" group-title="Regional",PeriyarVision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 tvg-id="EagleOneNews.us@SD" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Regional",Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-id="GarshomTV.uk" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Regional",Garshom TV (360p) [Not 24/7]
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GosreeVision.in" tvg-logo="https://i.imgur.com/pdBo8Xb.png" group-title="Regional",Gosree Vision (576p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-id="HarvestTV.in" tvg-logo="https://i.imgur.com/Aoq6mpT.png" group-title="Religious",Harvest TV (720p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV Keralam (720p)
+https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="Entertainment",Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-id="KCLTV.in" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Regional",KCL TV (720p)
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-id="KeralaVision.in" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Regional",Kerala Vision (720p)
+https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
+#EXTINF:-1 tvg-id="Keralabhumi.in" tvg-logo="https://i.imgur.com/05BslNS.png" group-title="Regional",Keralabhumi (576p)
+http://103.153.92.157:11037/hls/kbh.m3u8
+#EXTINF:-1 tvg-id="MSignMedia.in" tvg-logo="https://i.imgur.com/8fdUkOl.png" group-title="Regional",M Sign Media (720p) [Not 24/7]
+http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Regional",Magna Vision (1080p)
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="Regional",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 tvg-id="MandraTV.in" tvg-logo="https://i.ibb.co/92vyxNQ/logo.jpg" group-title="Regional",Mandra TV
+http://192.99.2.28/mandra_hls/mandra.m3u8
+#EXTINF:-1 tvg-id="Mayyazhi.in" tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="Regional",Mayyazhi (720p) [Not 24/7]
+http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="Regional",meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="NCV.in" tvg-logo="https://i.imgur.com/HZy6x27.png" group-title="Regional",NCV (720p)
+http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.in" tvg-logo="https://i.imgur.com/6Jh8LRI.png" group-title="Regional",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Potta-Divine TV USA (480p)
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="PravasiChannel.in" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Regional",Pravasi Channel (1080p)
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Regional",Pulari TV (720p)
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-id="RealTV.in" tvg-logo="https://i.imgur.com/OL5qm2c.png" group-title="Regional",Real TV (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
 
 
 
