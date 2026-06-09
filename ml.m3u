@@ -18,6 +18,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We (576p)
 https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
@@ -30,8 +32,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://m3uplay.com/leo/live.m3u8?id=1641&format=.m3u8
 #EXTINF:-1 tvg-id="699" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
-#EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
-https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="556" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://m3uplay.com" group-title="Kids",kochu TV
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 #KODIPROP:inputstream.adaptive.http-referrer=https://m3uplay.com
@@ -40,7 +40,7 @@ https://m3uplay.com/leo/live.php?id=556&format=.m3u8
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-id="News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Asianet_News_logo.webp/240px-Asianet_News_logo.webp.png?20230813115311" group-title="News", Asianet News (360p)
+#EXTINF:-1 tvg-id="News.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (360p)
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
