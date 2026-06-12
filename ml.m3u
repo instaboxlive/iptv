@@ -83,8 +83,8 @@ https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
 https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldzJhdhDOi2i4ivkQdMOMeYLecKI716gNlrLNpYmkkr2c=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Regional",ACV NVTV
-https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Regional",thalaa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/thalaa-tv/eba85ea4-867f-4da4-91a9-209e2a6e73fc/0.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lsLIA-fDUXO0C-AY2-Q8R2arfT-Y0k18FfVMcaFdwgDor3SIp9qu4o1duwhmXmYLLh9bW1pefQ=s900-c-k-c0x00ffffff-no-rj" group-title="Business",MYFIN TV 
 https://livetv.sinuostech.com/myfintv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6nlTdGSFBt0JvjmGrhEM01xsJpq6cgei0DAPFc8UdBtCQ1s4aBjNg3FPzmidh1WwbYw" group-title="Regional",NVISION 
