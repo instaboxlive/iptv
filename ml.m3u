@@ -97,8 +97,14 @@ https://live.skystream.in/live/networkpayyanur/index.m3u8
 https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5VVPxKpQfz6dalkkS5alzkLXbtvXO4r8VQ0N7xTDOU6S_hMqSFb-_AmxXUi59rfKmLU" group-title="Regional",Waynad Vision
 https://online.wayanadvision.in/hls/wayanadvision.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KfcdMhTNO-nWjf3L7R5ht9Rl2dpZQ_qIQh7N59hNmAENtAk_L8aMmLBavFFoXL_fA2QW_1PKDNlBnhaEYewNPg=w240-h480-rw" group-title="Regional",kasargod Vision
+https://live.skystream.in/live/kasaragodvsn/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLjmUMKXyrz5WgfAh8KnsXUV1_zm-SmXocw&s" group-title="Regional",CTV mukkam
+https://live.skystream.in/live/ctv1805/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Regional",TCN
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S8_S0ZPYuog4N491Zpjyc3L54j8K-CzmltP2xWoyRWCF1mWd3NykhXHOXdANCh8Lkmr3=w240-h480-rw" group-title="Regional",v9 news
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Regional",CHANNEL 2
 https://skystream.in/live/channel6785/index.m3u8?hls_ctx=433949y3
 #EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Regional",Real News Kerala (1080p) [Not 24/7]
