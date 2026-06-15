@@ -32,6 +32,8 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="563" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="Entertainment",KAUMUDI TV 
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://m3uplay.com" group-title="Entertainment",Flowers TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.com/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.com/
