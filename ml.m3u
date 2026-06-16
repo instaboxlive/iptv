@@ -141,7 +141,7 @@ https://live.skystream.in/live/drishya5060/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHWmSfb0J8xCdjsPNOTwzaIq_Jp6uKL49wg&s" group-title="Regional",drishya karunagapilly 
 https://live.skystream.in/live/drishyakarunagapally/index.m3u8?hls_ctx=64s22r57
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" group-title="Regional",VIBGYOR TV 
-https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+https://livestream.vibgyortv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Regional",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Regional",TEAKVISION
