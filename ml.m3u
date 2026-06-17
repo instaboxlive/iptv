@@ -304,7 +304,7 @@ https://live.primestream.in/prime/music/tracks-v1a1/mono.m3u8
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
-#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://bhoomtv.org/" group-title="Entertainment",Flowers TV
+#EXTINF:-1 tvg-id="634" tvg-logo="https://img.favpng.com/18/12/24/jaya-tv-television-channel-television-show-star-vijay-png-favpng-pwhpEQdPYEx21CrMRUdydK2Kx.jpg" http-referrer="https://bhoomtv.org/" group-title="Entertainment",jaya TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://www.techtraveleat.in/leo/live.m3u8?id=419&format=.m3u8
