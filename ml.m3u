@@ -56,9 +56,12 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://www.techtraveleat.in/leo/live.m3u8?id=1641&format=.m3u8
-#EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN
-#KODIPROP:inputstream.adaptive.http-referrer=https://southlive.net
-https://login.bheem.tv/bpk-tv/22096/output/index.mpd?&keyId=9452bb588219504397cc7dfc407356b5&key=1b3fc29b2616b147ebe119f2c6f9a02a
+#EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN HD
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #EXTINF:-1 tvg-id="699" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="556" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://m3uplay.com" group-title="Kids",Kochu TV
