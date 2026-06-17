@@ -7,8 +7,8 @@ https://live02.cubiktv.com/live/cubiktv_hd.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="FIFA 2026 ",CAZE TV server2
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" http-referrer="https://bhoomtv.net/" group-title="FIFA 2026 ",bioscop FIFA1
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" http-referrer="https://bhoomtv.org/" group-title="FIFA 2026 ",bioscop FIFA1
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://fifa.keralive.workers.dev/out/v1/dba7a93150a7462297b998af19b0fde0/index_5.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA 4
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
@@ -22,17 +22,17 @@ https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.net/" group-title="Movies",Surya TV
+#EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org/" group-title="Movies",Surya TV
 #EXTVLCOPT:http-referrer=https://onezoo.net/
 https://onezoo.net/sunxt/Play.php?c=11
-#EXTINF:-1 tvg-id="443" tvg-logo="https://i.imgur.com/Wv7MOzg.png" http-referrer="https://bhoomtv.net/" group-title="Entertainment",Asianet
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+#EXTINF:-1 tvg-id="443" tvg-logo="https://i.imgur.com/Wv7MOzg.png" http-referrer="https://bhoomtv.org/" group-title="Entertainment",Asianet
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.net/" group-title="Movies",Asianet Movies (576p)
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+#EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org/" group-title="Movies",Asianet Movies (576p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png" http-referrer="https://tulnit.com" group-title="Entertainment",Asianet Plus
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" group-title="Entertainment",Kairali TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
@@ -42,19 +42,19 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="563" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Kaumudy TV 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://bhoomtv.net/" group-title="Entertainment",Flowers TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.net/
+#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://bhoomtv.org/" group-title="Entertainment",Flowers TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://www.techtraveleat.in/leo/live.m3u8?id=634&format=.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment",AISAME
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.net/
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd?&keyId=c0c3d8692a6a574e9a731ff7ed7ca7fe&key=87eed062e3b13bd639f5cba89b83ea33
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.net/
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://www.techtraveleat.in/leo/live.m3u8?id=1641&format=.m3u8
 #EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN
 #KODIPROP:inputstream.adaptive.http-referrer=https://southlive.net
@@ -62,8 +62,8 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd?&keyId=9452bb588219504397cc
 #EXTINF:-1 tvg-id="699" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="556" tvg-logo="https://i.imgur.com/OSKUQHW.png" http-referrer="https://m3uplay.com" group-title="Kids",Kochu TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.net/
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.net/
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://www.techtraveleat.in/leo/live.php?id=556&format=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
@@ -304,6 +304,10 @@ https://live.primestream.in/prime/music/tracks-v1a1/mono.m3u8
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
+#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/vpoiA6i.png" http-referrer="https://bhoomtv.org/" group-title="Entertainment",Flowers TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+https://www.techtraveleat.in/leo/live.m3u8?id=419&format=.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Religious",Aaseervatham TV (576p)
