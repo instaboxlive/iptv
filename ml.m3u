@@ -68,37 +68,39 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 https://southlive.net//tv/sunxt.php?id=SURYA_MOVIES
+#EXTINF:-1 tvg-id="842" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="Entertainment",Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-logo="hhttps://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" group-title="Music",Raj Musix Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
+#EXTINF:-1 tvg-id="725" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-id="News.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (360p)
+#EXTINF:-1 tvg-id="180" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (360p)
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
+#EXTINF:-1 tvg-id="1250" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News",Manorama News (1080p)
+#EXTINF:-1 tvg-id="662" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News",Manorama News (1080p)
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="MediaOne.in@SD" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News",Media One 
+#EXTINF:-1 tvg-id="910" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News",Media One 
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="bigtvml@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BIG-TV-Malayalam_black.png" group-title="News",BigTV Malayalam
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQig8flcII1pKuAyTPBO3BRfl4sKbfUa0DB1Q&s" group-title="News" ,Zee News Malayalam 
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News",News Malayalam 24x7 (1080p)
+#EXTINF:-1 tvg-id="3184" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News",News Malayalam 24x7 (1080p)
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 #EXTINF:-1 tvg-id="650" tvg-logo="https://i.imgur.com/6JVLzaa.png" group-title="News",Raj News Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News 
+#EXTINF:-1 tvg-id="780" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="606" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) 
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom Global(1080p)
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Religious",Shekinah TV (1080p)
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Religious",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="ts1885" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
+#EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
 https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
 #EXTINF:-1 tvg-id="1644" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",PowerVision TV
 https://dksfwd26nz1.cloudfront.net/master.m3u8
@@ -195,8 +197,6 @@ https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTVKeralam.in" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV Keralam (720p)
 https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
-#EXTINF:-1 tvg-id="JeevanTV.in" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="Entertainment",Jeevan TV
-https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Regional",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Regional",Kerala Vision (720p)
