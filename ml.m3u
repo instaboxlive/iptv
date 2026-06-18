@@ -128,6 +128,8 @@ https://online.wayanadvision.in/hls/wayanadvision.m3u8
 https://live.skystream.in/live/kasaragodvsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLjmUMKXyrz5WgfAh8KnsXUV1_zm-SmXocw&s" group-title="Regional",CTV mukkam
 https://live.skystream.in/live/ctv1805/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="Regional",Magna tv
+https://j78dpa3edq5r-hls-live.5centscdn.com//abr//0864028584026e6ad9cdf922473177a4//abr3/live3/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Regional",TCN
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S8_S0ZPYuog4N491Zpjyc3L54j8K-CzmltP2xWoyRWCF1mWd3NykhXHOXdANCh8Lkmr3=w240-h480-rw" group-title="Regional",v9 news
