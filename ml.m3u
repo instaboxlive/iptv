@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX Sports
+#EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX Sports
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
