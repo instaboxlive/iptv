@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" http-referrer="https://southlive.net" group-title="FIFA 2026",Unite8 1 hd
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://tulnit.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7
 https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" http-referrer="https://southlive.net" group-title="FIFA 2026",Unite8 2 hd
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://tulnit.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d85c5ac2e08233ff10ef2f7f636ecbb:fbb795d0d8497cb731a99e5250d857a1
@@ -15,8 +15,8 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=afad49d20eb39670e93e371c1d669921:f8b207c10f3f76aeba32a360ec52b9e4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA WorldCup2026 (1080p)
 https://vtvgolive-vtv.vtvdigital.vn/BSr4Ljp5V5AdmuklpQ-3IQ/1781436567/vtvgo/vtv6tt-manifest.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA1
