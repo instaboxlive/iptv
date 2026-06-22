@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" http-referrer="https://southlive.net" group-title="FIFA 2026",Unite8 1 hd
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef70eee471d4a83bf752b581291faaf7:ffc8dba12a4d132d52b1338089d15b64
