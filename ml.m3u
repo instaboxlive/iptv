@@ -30,8 +30,8 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA 4
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA3
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids ",Tom and Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA Server7
@@ -44,7 +44,7 @@ https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1388" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
