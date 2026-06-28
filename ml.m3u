@@ -138,6 +138,8 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD 
 https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608031316377305_68.png" group-title="Lifestyle",TravelXP 4K
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="606" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) 
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom Global
