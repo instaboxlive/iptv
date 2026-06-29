@@ -19,18 +19,18 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://mmx.prnasia.com/media/MS684321/Aleph-Logo.jpg?id=OA2695477&p=medium600" group-title="FIFA 2026 ",WorldcupTV
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/304343/original/latest.jpg" group-title="FIFA 2026 ",WorldcupTV
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" http-referrer="https://bhoomtv.org/" group-title="FIFA 2026 ",bioscop FIFA1
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" http-referrer="https://bhoomtv.org/" group-title="FIFA 2026 ",bioscop FIFA1
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA 4
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids ",Tom and Jerry
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026 ",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
