@@ -13,13 +13,13 @@ https://live02.cubiktv.com/live/cubiktv_hd.m3u8
 https://ts.copyniga.cfd/v/f94800f9cab067a9874eb629f6dfbfca/high/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/61/2/cazetv-logo-png_seeklogo-619708.png" group-title="FIFA 2026 ",CAZE TV 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="FIFA 2026 ",CAZE TV 2
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://static.cdnlogo.com/logos/c/27/caze-tv_thumb.png" group-title="FIFA 2026 ",CAZE TV 60Fps
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/fox-world-cup-2026.jpg" group-title="FIFA 2026 ",worldcuptv
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://mmx.prnasia.com/media/MS684321/Aleph-Logo.jpg?id=OA2695477&p=medium600" group-title="FIFA 2026 ",WorldcupTV
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
