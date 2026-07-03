@@ -49,7 +49,7 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Sun_Surya.jpg" group-title="Entertainment",SURYA MOVIES HD TEST
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://southlive.net/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89":2e8460c47d3f01693e193dba5963a5e1
