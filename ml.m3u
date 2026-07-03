@@ -30,12 +30,12 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" http-referrer="https://bhoomtv.org/" group-title="FIFA 2026 ",bioscop FIFA1
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/fox-world-cup-2026.jpg" group-title="FIFA 2026",Fox 4K
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/fox-world-cup-2026.jpg" group-title="FIFA 2026",TSN
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server7
