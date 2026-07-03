@@ -124,6 +124,12 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics" group-title="Movies",AXN
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies",HBO
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
