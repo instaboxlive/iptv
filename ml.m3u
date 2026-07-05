@@ -102,7 +102,7 @@ https://www.techtraveleat.in/leo/live.m3u8?id=1641&format=.m3u8
 #EXTINF:-1 tvg-id="1641" tvg-logo="" http-referrer="https://bhoomtv.com" group-title="Entertainment",TEST1
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-https://southlive.net/player.php?mpd=https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?&keyId=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d
+https://southlive.net/player.php?mpd=https://white-paper-38cb.keralive.workers.dev/livestream/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd?&keyId=6b67bccef7024f2da29b42e10dc13f89&key=2e8460c47d3f01693e193dba5963a5e1
 #EXTINF:-1 tvg-id="699" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-logo="hhttps://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" group-title="Music",Raj Musix Malayalam
@@ -142,10 +142,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics" group-title="Movies",AXN
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids",Test
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?&keyId=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d
+https://white-paper-38cb.keralive.workers.dev/livestream/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd?&keyId=6b67bccef7024f2da29b42e10dc13f89&key=2e8460c47d3f01693e193dba5963a5e1
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies",HBO
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
