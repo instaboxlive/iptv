@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jio.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" http-referrer="https://southlive.net" group-title="FIFA 2026",D Sports
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -210,12 +210,12 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://earthxmedia.com/wp-content/uploads/2024/06/EARTHXtra_Logo_RegisteredMark_Default-scaled.png" group-title="Wild",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1e11ef53-dd2b-4000-be85-84d155c01433/4.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://mikemathisprods.com/wp-content/uploads/2021/12/animal-planet-1.png" group-title="Wild",Animal Planet HD
+#EXTINF:-1 tvg-id="286" tvg-logo="https://mikemathisprods.com/wp-content/uploads/2021/12/animal-planet-1.png" group-title="Wild",Animal Planet HD
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Lifestyle",TravelXP 4K HDR
