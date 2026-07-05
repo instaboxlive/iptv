@@ -59,6 +59,11 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
 https://white-paper-38cb.keralive.workers.dev/livestream/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Sun_Surya.jpg" group-title="Entertainment",SURYA HD 
+#KODIPROP:inputstream.adaptive.http-referrer=https://onezoo.net
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://onezoo.net/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
