@@ -54,13 +54,6 @@ https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Sun_Surya.jpg" group-title="Entertainment",SURYA MOVIES HD TEST
-#KODIPROP:inputstream.adaptive.http-referrer=https://white-paper-38cb.keralive.workers.dev
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
-https://white-paper-38cb.keralive.workers.dev/livestream/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Sun_Surya.jpg" group-title="Entertainment",SURYA HD test
-https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
@@ -77,7 +70,7 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png" http-referrer="https://tulnit.com" group-title="Entertainment",Asianet Plus
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kairali-arabia-white.png" group-title="Entertainment",Kairali Arabia
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" group-title="Entertainment",Kairali TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
@@ -128,7 +121,7 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="bigtvml@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BIG-TV-Malayalam_black.png" group-title="News",BigTV Malayalam
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQig8flcII1pKuAyTPBO3BRfl4sKbfUa0DB1Q&s" group-title="News" ,Zee News Malayalam 
+#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD"tvg-logo="https://english.cdn.zeenews.com/images/app/malayalam/MALAYALAM_REVERSE-01.jpg" group-title="News" ,Zee News Malayalam 
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="3184" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News",News Malayalam 24x7 (1080p)
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
@@ -228,11 +221,11 @@ https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://www.travelxp.tv/_next/image?url=https%3A%2F%2Fimages.travelxp.com%2Fimages%2Ftxpin%2Fgeneral%2Ftravelxplogo1.png&w=128&q=75" group-title="Lifestyle",TravelXP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="606" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) 
+#EXTINF:-1 tvg-id="606" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="Religious",Shalom (1080p) 
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom Global
+#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://d21eltvzuohwbs.cloudfront.net/v1/webp_compress/ott506/logo/LogoAsset.png" group-title="Religious",Shalom Global
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="2004" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Religious",Shekinah TV (1080p)
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png" group-title="Religious",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
 https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
