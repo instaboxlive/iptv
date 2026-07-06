@@ -226,7 +226,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History test
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/history_live_nr_prod/7611369484f746c4b86083207972fee8/index.m3u8?type=ae2
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",H2 test
-https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8&id=21565&type=mp4
+https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
 #EXTINF:-1 tvg-id="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Discovery_Turbo.svg/960px-Discovery_Turbo.svg.png" group-title="Auto ",Discovery Turbo new
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
 #EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
