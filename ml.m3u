@@ -110,7 +110,7 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 #EXTINF:-1 tvg-id="910" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTz6d6_ZJqZmIVtfqSOMPc1bYjjXqu47vK4My_em-RXA&s=10" group-title="News",Media One 
 https://cdn-3.pishow.tv/live/1481/master.m3u8
-#EXTINF:-1 tvg-id="965" tvg-logo="" group-title="News",NEWS18 KERALA 
+#EXTINF:-1 tvg-id="965" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18malayalam-logo-1200x675.png" group-title="News",NEWS18 KERALA 
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="bigtvml@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BIG-TV-Malayalam_black.png" group-title="News",BigTV Malayalam
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
@@ -120,7 +120,7 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="3184" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News",News Malayalam 24x7 (1080p)
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
-#EXTINF:-1 tvg-id="650" tvg-logo="https://i.imgur.com/6JVLzaa.png" group-title="News",Raj News Malayalam
+#EXTINF:-1 tvg-id="650" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cad89fab79343f1ffccf173865b5cf4b.png" group-title="News",Raj News Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN HD
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
