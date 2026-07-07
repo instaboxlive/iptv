@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jio.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX SPORTS
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" http-referrer="https://southlive.net" group-title="FIFA 2026",D Sports
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
