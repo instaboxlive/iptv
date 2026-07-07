@@ -107,7 +107,7 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="662" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-rebrand-logo.png" group-title="News",Manorama News (1080p)
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="780" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News 
-https://d3kdywbtdfbp9z.cloudfront.net/v1/session/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/e7531275-c2f1-48d5-8c1f-b90d1aef4fd9/0.m3u8
 #EXTINF:-1 tvg-id="910" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTz6d6_ZJqZmIVtfqSOMPc1bYjjXqu47vK4My_em-RXA&s=10" group-title="News",Media One 
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="965" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18malayalam-logo-1200x675.png" group-title="News",NEWS18 KERALA 
