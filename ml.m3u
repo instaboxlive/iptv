@@ -104,7 +104,7 @@ https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 https://cdn-2.pishow.tv/live/1510/master.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="662" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News",Manorama News (1080p)
+#EXTINF:-1 tvg-id="662" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-rebrand-logo.png" group-title="News",Manorama News (1080p)
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="780" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News 
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
