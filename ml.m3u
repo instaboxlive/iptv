@@ -698,7 +698,22 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0538cf4c5ed546a9956aadab2fdf3366:b0af534e1a5f459f9c751a0cb9d12d4c
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
-
+#EXTINF:-1 tvg-id="CNA-singapore" tvg-chno="1036" tvg-name="CNA Singapore" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CNA-1689340822049.jpeg" group-title="News",CNA Singapore
+https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/chunklist__2.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-chno="1037" tvg-name="Arirang TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/arirang-app-logo1-1692109738967.png" group-title="News",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="CGNTV" tvg-chno="1039" tvg-name="CGTN Global" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/cgntv-1693594532150.jpg" group-title="News",CGTN Global
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1 tvg-id="TRT-world" tvg-chno="1040" tvg-name="TRT World" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/trt-1739730723789.jpg" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="nhk-japan" tvg-chno="1041" tvg-name="NHK World" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NHK-World-Japan-1625537551713.png" group-title="News",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-chno="1045" tvg-name="Russia Today " tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG-20260313-WA0002-1773408425170.jpg" group-title="News",Russia Today 
+https://streams2.sofast.tv/ptnr-khabriya/title-RT_News_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f0357f5-9372-4de4-85e2-cf9773440958/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="1048" tvg-name="i24 NEWS" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/I24-1775733853052.jpg" group-title="News",i24 NEWS
+https://hlspackager.akamaized.net//live/DB/i24_ENGLISH/NEO/i24_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="bein-xtra" tvg-chno="1118" tvg-name="beIN Sports Xtra" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/beinsports-1767126976145.jpg" group-title="Sports",beIN Sports Xtra
+https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8
 
 
 
