@@ -229,7 +229,7 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History
 https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30820-amg30820c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History test
-https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/history_live_nr_prod/7611369484f746c4b86083207972fee8/index.m3u8?type=ae2
+https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",H2 test
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
 #EXTINF:-1 tvg-id="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Discovery_Turbo.svg/960px-Discovery_Turbo.svg.png" group-title="Auto ",Discovery Turbo new
