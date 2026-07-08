@@ -443,19 +443,28 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png" group-title="Doordarshan",DD Yadagiri (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
-#EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="Tamil Movies",J Movie
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="Movies",Raj Digital Plus (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png" group-title="Music",Raj Musix Tamil (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="RajNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png" group-title="News",Raj News (576p)
+http://103.72.101.252:8080/live/767.m3u8
+#EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" group-title="Entertainment",Raj TV (1080p)
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160b27f9-7547-40ad-a731-ea63430f696e/0.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="Music",Vijay Takkar APAC (1080p)
+#EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="Tamil",J Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3
 https://login.bheem.tv/bpk-tv/22373/output/index.mpd
-#EXTINF:-1 tvg-id="22374" tvg-logo="https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png" group-title="Tamil Music",Jaya Max
+#EXTINF:-1 tvg-id="22374" tvg-logo="https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png" group-title="Tamil",Jaya Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
 https://login.bheem.tv/bpk-tv/22374/output/index.mpd
-#EXTINF:-1 tvg-id="22376" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20TV%20HD.png" group-title="Tamil Entertainment",Jaya TV HD
+#EXTINF:-1 tvg-id="22376" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20TV%20HD.png" group-title="Tamil",Jaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=240e85c531b3557b9f80f460de9d3632:1e152dddc7f6e7d7ff8bbea884907c24
 https://login.bheem.tv/bpk-tv/22376/output/index.mpd
-#EXTINF:-1 tvg-id="22378" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" group-title="Tamil Entertainment",Chithiram
+#EXTINF:-1 tvg-id="22378" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" group-title="Tamil",Chithiram
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
 https://login.bheem.tv/bpk-tv/22378/output/index.mpd
