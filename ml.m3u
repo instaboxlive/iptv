@@ -124,6 +124,8 @@ https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 #EXTINF:-1 tvg-id="650" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cad89fab79343f1ffccf173865b5cf4b.png" group-title="News",Raj News Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="DDSPORTSHD" tvg-chno="313" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C313-1770642483.png" tvg-language="" group-title="Sports",DD Sports HD
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN HD
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
