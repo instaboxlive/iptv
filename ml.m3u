@@ -218,6 +218,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/thumb/e/e8/Miramax_%282023%2C_The_Holdovers_variant%29.webp/499px-Miramax_%282023%2C_The_Holdovers_variant%29.webp.png" group-title="Movies",Miramax
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://earthxmedia.com/wp-content/uploads/2024/06/EARTHXtra_Logo_RegisteredMark_Default-scaled.png" group-title="Wild",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1e11ef53-dd2b-4000-be85-84d155c01433/4.m3u8
 #EXTINF:-1 tvg-id="286" tvg-logo="https://mikemathisprods.com/wp-content/uploads/2021/12/animal-planet-1.png" group-title="Wild",Animal Planet HD
