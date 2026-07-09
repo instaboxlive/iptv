@@ -745,59 +745,5 @@ https://streams2.sofast.tv/ptnr-khabriya/title-RT_News_Khabriya/v1/master/611d79
 https://hlspackager.akamaized.net//live/DB/i24_ENGLISH/NEO/i24_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="bein-xtra" tvg-chno="1118" tvg-name="beIN Sports Xtra" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/beinsports-1767126976145.jpg" group-title="Sports",beIN Sports Xtra
 https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png",Ridsys HD
-http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Tamil%20HD.png",Colors Tamil HD
-http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1SEP.png?lock=720x540",KTV HD
-http://ptuf.ridsys.in/riptv/live/K_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0DG5.png?lock=720x540",Sun TV
-http://ptuf.ridsys.in/riptv/live/SUN_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",Sirippoli
-http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",Zee Tamil HD
-http://ptuf.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",Star Vijay
-http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540",Thanthi TV
-http://ptuf.ridsys.in/riptv/live/THANTHI_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",Puthiya Thalaimurai
-http://ptuf.ridsys.in/riptv/live/PUTHIYA_THALAIMURAI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png",AJK TV
-http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",Star Sports 1 HD
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",Star Movies HD
-http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",Isai Aruvi
-http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png",AJK Movie HD [PTU]
-http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",Sun Life
-http://ptuf.ridsys.in/riptv/live/SUN_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540",Nick Tamil
-http://ptuf.ridsys.in/riptv/live/NICK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540",Pogo Tamil
-http://ptuf.ridsys.in/riptv/live/POGO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143619_ld_h15_aa.png?lock=720x540",News18 Tamil Nadu
-http://ptuf.ridsys.in/riptv/live/NEWS_18_TAMILNADU/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg",Disney Channel
-http://ptuf.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png",Auro High Definition
-http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UjlbR4o.png",News 7 Tamil
-http://ptuf.ridsys.in/riptv/live/NEWS_7_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png",Sun Gemini
-http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3MWm9nD.png",Vijay Super
-http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png",S Media
-http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1V12.png?lock=720x540",Adithya TV
-http://ptuf.ridsys.in/riptv/live/ADITYA_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",Star Sports 1 Tamil
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/LOGO_HD_image.png",Zee Thirai HD
-http://ptuf.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
 
 
