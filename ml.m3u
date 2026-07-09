@@ -102,6 +102,16 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-129/index.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-logo="hhttps://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" group-title="Music",Raj Musix Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="606" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="Religious",Shalom (1080p) 
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://d21eltvzuohwbs.cloudfront.net/v1/webp_compress/ott506/logo/LogoAsset.png" group-title="Religious",Shalom Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png" group-title="Religious",Shekinah TV (1080p)
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
+https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
+#EXTINF:-1 tvg-id="1644" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",PowerVision TV
+https://dksfwd26nz1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="180" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (1080p)
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Reporter_TV_screen_logo.png" group-title="News",REPORTER TV
@@ -248,16 +258,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://www.travelxp.tv/_next/image?url=https%3A%2F%2Fimages.travelxp.com%2Fimages%2Ftxpin%2Fgeneral%2Ftravelxplogo1.png&w=128&q=75" group-title="Lifestyle",TravelXP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="606" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="Religious",Shalom (1080p) 
-https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://d21eltvzuohwbs.cloudfront.net/v1/webp_compress/ott506/logo/LogoAsset.png" group-title="Religious",Shalom Global
-https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="2004" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png" group-title="Religious",Shekinah TV (1080p)
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
-https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
-#EXTINF:-1 tvg-id="1644" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",PowerVision TV
-https://dksfwd26nz1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lnvkfyzEab7aqlBUI8TcgOfEHZv_2-724D4AYIX8_vV6E=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",MEDIANET
 https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Lq3s39LHaPen0wrdkJqRJK7MtxuNrd1AmkLdKaxcjujoqOocELogkzZMjfZpiwDDdlPk0eMdZQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Regional",MEDIANET
