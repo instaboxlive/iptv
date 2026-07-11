@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="151" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",RomedyNow
-#KODIPROP:inputstream.adaptive.http-referrer=ttps://playyonogames.in
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in
 https://playyonogames.in/sliv/play.php?c=1000009258
 #EXTINF:-1 tvg-id="151" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" group-title="Movies",MoviesNow
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
