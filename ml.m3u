@@ -155,11 +155,8 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-HD-Quality.png" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics" group-title="Movies",AXN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
+#EXTINF:-1 channel-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-chno="412" tvg-name="Power Rangers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" group-title="Sports",Power Rangers
+https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics" group-title="Movies",AXN
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -262,6 +259,11 @@ https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
 #EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="TV & Entertainment",America's Got Talent
+https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
+#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/JUST-FOR-LAUGHS-DASH/logo/400x200.jpg",334 JUSTFORLAUGH
+https://vglivessai.akamaized.net/ptnr-lg/title-JUSTFORLAUGH-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5d890b77-4d1c-4600-80e1-593d31b935db/manifest.m3u8
+
 #EXTINF:-1 tvg-id="83817" tvg-name="4K TRAVEL TV" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png",4K TRAVEL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #KODIPROP:inputstream=inputstream.adaptive
