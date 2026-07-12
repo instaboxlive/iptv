@@ -24,7 +24,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#KODIPROP:inputstream.adaptive.license_key=17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/31/2/tsn-1-logo-png_seeklogo-314693.png" group-title="FIFA 2026",TSN 1
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
