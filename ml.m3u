@@ -124,6 +124,8 @@ https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sd
 https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
 #EXTINF:-1 tvg-id="1644" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",PowerVision TV
 https://dksfwd26nz1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="CatholicTV.us@SD" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV (1080p)
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-id="180" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (1080p)
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Reporter_TV_screen_logo.png" group-title="News",REPORTER TV
