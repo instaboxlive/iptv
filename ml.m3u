@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13369.png?44818" group-title="FIFA 2026",4K-WC: (DE) FUSSBALL.TV1 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=2028632&extension=ts&play_token=mP4lBI1tC7
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX SPORTS
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -40,21 +42,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 #EXTINF:-1    group-title="Test",UNITE8 SPORTS 2
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373343&extension=ts&play_token=bOd2rQPdPs
-#EXTINF:-1 tvg-id="Bollywood4u@in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" group-title="IN | HINDI MOVIES",Bollywood 4U (1080p)
-https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 fast
-https://live.inplyr.com/room/168740.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156170.png" group-title="ASIA | INDIA" http-user-agent="Mozilla/5.0" http-referrer="http://line.iptvhunt.com:8000/c/c/" referrer="http://line.iptvhunt.com:8000/c/c/",HINDI| SONY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.iptvhunt.com:8000/c/c/
-#EXTVLCOPT:http-cookie=mac=A0:BB:3E:77:64:0F; stb_lang=en; timezone=GMT
-http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156170&extension=ts&play_token=ZD5EcSQ8Qt
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server7
 https://cdn011.viaplus.site/fox-usa.m3u8
-#EXTINF:-1 tvg-id="648" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcbf005fdbbe3c4c5224827def2387b8.png" group-title="Entertainment",Mazhavil Manorama (576p)
-https://cdn-3.pishow.tv/live/1479/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (720p)
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
@@ -69,6 +60,8 @@ http://40.160.24.55/TSN_3/index.m3u8
 http://40.160.24.55/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5 (1080p)
 http://40.160.24.55/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="648" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcbf005fdbbe3c4c5224827def2387b8.png" group-title="Entertainment",Mazhavil Manorama (576p)
+https://cdn-3.pishow.tv/live/1479/master.m3u8
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD (1080p)
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD server2
