@@ -40,12 +40,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1    group-title="Test",UNITE8 SPORTS 2
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA 2026",UNITE8 SPORTS 1
+https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA 2026",UNITE8 SPORTS 2
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373343&extension=ts&play_token=bOd2rQPdPs
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",fifa2
-https://key-vid.zee5.com/hls/live/2125523/ENG-vs-ARG-16-con_MAL/index-connected.m3u8%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/150.0.0.0%20Safari/537.36%20Edg/150.0.0.0
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (720p)
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
