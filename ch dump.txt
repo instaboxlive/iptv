@@ -22,3 +22,5 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-PIX-HD.jpeg" group-title=" ENGLISH", SONY PIX
+https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
