@@ -173,6 +173,10 @@ https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 https://d3fmqi91qduj7.cloudfront.net/11401/88814632/hls/master.m3u8?ads.xumo_channelId=88814632
 #EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The LEGO Channel (1080p)
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BABY-TV.jpeg" group-title=" ENGLISH",DISNEY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441208&extension=ts&play_token=1nizLio5wL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BABY-TV.jpeg" group-title=" ENGLISH", BABY TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441207&extension=ts&play_token=IpbjIBmm1O
 #EXTINF:-1 tvg-chno="960" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" group-title="Kids",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
@@ -223,36 +227,26 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy Kids",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies",HBO
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305" group-title="Movies",HBO HITS
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngitem.com/pimgs/b/153-1531106_hbo-logo-png.png" group-title="Movies",HBO Family
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies", HBO 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856369&extension=ts&play_token=9nCaNC2Rkn
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/b/153-1531106_hbo-logo-png.png" group-title="Movies",HBO FAMILY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856436&extension=ts&play_token=scCv0v2TT1
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305" group-title="Movies", HBO HITS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856435&extension=ts&play_token=xEehCOolR8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" group-title="Movies",HBO SIGNATURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856434&extension=ts&play_token=MCP8oawImI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/731833.png" group-title="Movies",HITS MOVIES HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856286&extension=ts&play_token=XiLfRNQKIH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HITSMOVIES.png" group-title="Movies",HITS MOVIES HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856394&extension=ts&play_token=jKTSJ9Pnbv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HITSNOW.png" group-title="Movies",HITS NOW HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856370&extension=ts&play_token=3ujOErkoNb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/926174.png" group-title="Movies",HITS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856309&extension=ts&play_token=rtJK421ont
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HITS.png" group-title="Movies",HITS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856362&extension=ts&play_token=U8yFXyaXuh
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/3840px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",CINEMAX
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856386&extension=ts&play_token=1Wn5QTqm1U
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909" group-title="Movies",WB HD
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="151" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",RomedyNow
@@ -282,8 +276,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="762" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Movies",Sony Movies HD 
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="762" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD 
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-PIX-HD.jpeg" group-title=" ENGLISH", SONY PIX
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441205&extension=ts&play_token=QyL269hVUi
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title=" ENGLISH", STAR MOVIES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441216&extension=ts&play_token=qieHQ9Tmqo
@@ -339,6 +331,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441177&exten
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Series",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HISTORY.png" group-title="Documentary",HISTORY Philippiens
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856422&extension=ts&play_token=BTgr3xxaDi
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Hindi
 https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30820-amg30820c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History TV18
@@ -349,10 +343,6 @@ https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANIMAL-PLANET-HD.png" group-title=" ENGLISH", ANIMAL PLANET HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441184&extension=ts&play_token=2tOhR5KsAm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BABY-TV.jpeg" group-title=" ENGLISH", BABY TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441208&extension=ts&play_token=1nizLio5wL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BABY-TV.jpeg" group-title=" ENGLISH", BABY TV HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441207&extension=ts&play_token=IpbjIBmm1O
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png" group-title=" ENGLISH", BBC EARTH HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=441183&extension=ts&play_token=XrHQrZxC5O
 #EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
@@ -694,7 +684,7 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 ,Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",sony max hd
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",sony max HD
 http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | TOP",STAR PLUS HD (AIRTEL) #️⃣ 5
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=671571&extension=ts&play_token=5iDIq6wufB
