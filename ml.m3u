@@ -169,6 +169,8 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bae58b19-3adb-45a5-a03c-2a2830f73337/dj368wn-f18e9110-cb48-46f2-ae8b-df846052c122.png/v1/fill/w_1280,h_1227/sonic_the_hedgehog_render___logo_png_by_junior3dsymas_dj368wn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNyIsInBhdGgiOiIvZi9iYWU1OGIxOS0zYWRiLTQ1YTUtYTAzYy0yYTI4MzBmNzMzMzcvZGozNjh3bi1mMThlOTExMC1jYjQ4LTQ2ZjItYWU4Yi1kZjg0NjA1MmMxMjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Eb5wxEm1oVQV7Wfr-qDDrCzaFCZM_zHXdvezN6FgmjI" group-title="Kids",Sonic The HedgeHog (720p)
+https://d3fmqi91qduj7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-2/0dbb1e8d-ebfc-4e49-8995-96453d9b16a1/3.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The LEGO Channel (1080p)
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno="960" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" group-title="Kids",Discovery Kids
