@@ -42,8 +42,10 @@ https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373343&extension=ts&play_token=bOd2rQPdPs
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="FIFA 2026",FIFA Server6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (720p)
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 ,Bein Xtra 
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports1080p.m3u8
+#EXTINF:-1 ,FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
