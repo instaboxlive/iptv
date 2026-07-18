@@ -3082,3 +3082,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791172&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791171&extension=ts&play_token=DaXvh82dmc
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX TURKEY ᵁᴴᴰ 3840P
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791177&extension=ts&play_token=vMk3URa4Fl
+#EXTINF:-1 ,SONY ten LIV
+http://live.balajibroadband.com:3500/live/524.m3u8
+#EXTINF:-1 ,SONY LIV
+http://live.balajibroadband.com:3500/live/891.m3u8
+#EXTINF:-1 ,SONY LIV
+http://live.balajibroadband.com:3500/live/155.m3u8
+#EXTINF:-1 ,SONY LIV
+http://live.balajibroadband.com:3500/live/162.m3u8
+#EXTINF:-1 ,SONY LIV
+http://live.balajibroadband.com:3500/live/892.m3u8
