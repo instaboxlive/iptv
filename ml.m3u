@@ -2,6 +2,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="4K",FussBall TV
 https://tv.661918.xyz/proxy?url=https%3A%2F%2Fcdn.staticres.top%2Fp%2Fb1ea7ad7-d641-4c00-8b52-185c98fb9190
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/609.png?46964" group-title="",FOX SPORTS 1 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=325017&extension=ts&play_token=oqHdRZKpf6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/609.png?46964" group-title="",FOX SPORTS 2 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=325016&extension=ts&play_token=6fbrH2lDhk
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX SPORTS
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
