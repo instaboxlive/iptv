@@ -66,8 +66,10 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="Sun Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-language="Malayalam" group-title="Movies", Sun Surya Movies
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443065&extension=ts&play_token=DvhysQyYI1
-#EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD
+#EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD HDR
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="ASIA| MALAYALAM",MALAYALAM: SURYA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443066&extension=ts&play_token=t1kOdHfACN
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
@@ -91,7 +93,7 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443068&extension=ts&play_token=4Uh3qF7IFJ
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KOCHU-TV.jpg" group-title="MALAYALAM",MALAYALAM: KOCHU TV
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=443046&extension=ts&play_token=ojFLng3cB5
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443046&extension=ts&play_token=nyeUsplaAH
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" group-title="Entertainment",Kairali TV (576p)
@@ -197,18 +199,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 channel-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-chno="412" tvg-name="Power Rangers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" group-title="Sports",Power Rangers
 https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics" group-title="Movies",AXN
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RZ5-WqVoGTi45AQKuJoSE_uO11o5-yh8qER7N5uZYA&s=10" group-title="Infotainment",Discovery
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/731863.png" group-title="",AXN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856291&extension=ts&play_token=d9S0nn13Xs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/AXN.png" group-title="",AXN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856352&extension=ts&play_token=P87Ikoe1bc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/926201.png" group-title="",BBC EARTH ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856312&extension=ts&play_token=VLf5vNlUYg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/BBCEARTH.png" group-title="", BBC EARTH ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856413&extension=ts&play_token=c5xzcyvj8o
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxyjGhgs2F33h-sMIOyU3SpqqzY1EVg8A4aiWjbIL1g&s" group-title="Movies",SONY ONE Action
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxyjGhgs2F33h-sMIOyU3SpqqzY1EVg8A4aiWjbIL1g&s" group-title="Movies",SONY ONE Comedy
@@ -262,13 +260,15 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="762" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Movies",Sony Movies HD 
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="762" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD 
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441205&extension=ts&play_token=QyL269hVUi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title=" ENGLISH", STAR MOVIES
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441216&extension=ts&play_token=qieHQ9Tmqo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title=" ENGLISH", STAR MOVIES HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441217&extension=ts&play_token=goo8VBpI6k
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-MOVIES-SELECT-HD.jpg" group-title=" ENGLISH", STAR MOVIES SELECT HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441215&extension=ts&play_token=AJUa9s5rgM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441205&extension=ts&play_token=gyPlgXAsBw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441216&extension=ts&play_token=qWeCR96Q2K
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441217&extension=ts&play_token=U7nGzHlmOA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES SELECT HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441215&extension=ts&play_token=eDlWKjBQPX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TATA-SKY.png" group-title="ASIA| ENGLISH",ENGLISH: TATA SKY WORLD CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441189&extension=ts&play_token=uhQs7vSebw
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Logo.png" group-title="Movies",Amazon Movies
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -318,7 +318,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Series",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HISTORY.png" group-title="Documentary",HISTORY Philippiens
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1856422&extension=ts&play_token=BTgr3xxaDi
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856422&extension=ts&play_token=NYIHBepEVW
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Hindi
 https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30820-amg30820c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History TV18
@@ -2967,107 +2967,6 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-country="US" group-title="News",ABC News Live (720p)
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 1
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628986&extension=ts&play_token=BxDaU9XNPA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 10
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628977&extension=ts&play_token=aooceI59ev
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 11
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628976&extension=ts&play_token=mK2s22FYmW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 2
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628985&extension=ts&play_token=Kl7bHAfX4A
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 2022
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628975&extension=ts&play_token=6GjEPYzUko
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 3
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628984&extension=ts&play_token=LoRPtEm8fK
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 4
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628983&extension=ts&play_token=FPBabF4KiX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 5
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628982&extension=ts&play_token=GINr1NRFUa
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 6
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628981&extension=ts&play_token=SHgUsH8LoL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 7
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628980&extension=ts&play_token=O4gJcxGfzI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 8
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628979&extension=ts&play_token=rGodtQR8Yy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MALAYALAM 9
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628978&extension=ts&play_token=OyFgHsOj34
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MAMMOOTHY CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628974&extension=ts&play_token=WVg7PI9wrr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MOHANLAL CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628973&extension=ts&play_token=v1uU5ogCLp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MUKESH CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628972&extension=ts&play_token=gWKwXIaNrB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MURALI CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628971&extension=ts&play_token=46E1s6dz5x
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MUSICAL CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628970&extension=ts&play_token=OqFMwXclK3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", MYSTERY CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628969&extension=ts&play_token=TXXTY8kjqY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", PREM NAZIR CINEMA HD-nn
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628968&extension=ts&play_token=sTbjA95KhI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", RAJKUMAR CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628967&extension=ts&play_token=06crCaSY1D
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", SIDDIQUE CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628966&extension=ts&play_token=zyetjRI2vH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", SPORT CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628965&extension=ts&play_token=O02GsIMQkn
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", SURESH GOPI CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628964&extension=ts&play_token=w3uJqhraaU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", THILAKAN CINEMA HD-nn
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=1628963&extension=ts&play_token=UvcV00zbz3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies", THRILLER CINEMA HD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 1 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=779155&extension=ts&play_token=HObkZZDjJA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 10 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790886&extension=ts&play_token=WpsSi5o0G3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 11 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790885&extension=ts&play_token=agzJGX8eyb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 12 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790884&extension=ts&play_token=pqYLPSqoyu
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 13 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790883&extension=ts&play_token=oGW9706AdK
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 14 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790882&extension=ts&play_token=wRilQx7qan
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 15 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790881&extension=ts&play_token=BLtusC12ml
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 2 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=781817&extension=ts&play_token=Bs3DTVbIsJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 3 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=781816&extension=ts&play_token=3wO0zgy4BO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 4 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=782795&extension=ts&play_token=rvLf5Z5ed6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 5 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=782794&extension=ts&play_token=rb2RAHEhQF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 6 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790890&extension=ts&play_token=KJz3nv1OOo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 7 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790889&extension=ts&play_token=0sF6tW9RtJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 8 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790888&extension=ts&play_token=0qXqV6uI2I
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",4K: RELAX 9 ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=790887&extension=ts&play_token=XMi43E2EEU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX ALGERIA ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=1008543&extension=ts&play_token=Rr3tm1AkNr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX AUSTRALIA ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791176&extension=ts&play_token=j3CsfGkglh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX EARTH NATURE ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791175&extension=ts&play_token=yMV8dhQTmr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX FOREST ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791174&extension=ts&play_token=7IW2goUau9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX ICELAND ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791179&extension=ts&play_token=ZYdHJTXUYs
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791173&extension=ts&play_token=RoltDCH8Nz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX MOROCCO ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791180&extension=ts&play_token=UBHGTWtdll
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX NORWAY ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791178&extension=ts&play_token=ro1R5YNrts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX THE OCEAN ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791172&extension=ts&play_token=NuCGL1acdE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791171&extension=ts&play_token=DaXvh82dmc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX TURKEY ᵁᴴᴰ 3840P
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B5:B9:0F&stream=791177&extension=ts&play_token=vMk3URa4Fl
 #EXTINF:-1 ,SONY ten LIV
 http://live.balajibroadband.com:3500/live/524.m3u8
 #EXTINF:-1 ,SONY LIV
@@ -3082,3 +2981,205 @@ http://live.balajibroadband.com:3500/live/892.m3u8
 https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
 #EXTINF:-1 ,nhk 4k server1
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",1980-2015 CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629020&extension=ts&play_token=EiZ8T5cyNX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",2016-2018 CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629019&extension=ts&play_token=xPUFTv7xrh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",2019-2021 CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629018&extension=ts&play_token=yXrCpAAADL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",2022-2023 CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629017&extension=ts&play_token=zGCQMZT3nk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",2024 CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629016&extension=ts&play_token=ABu2jonDVv
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",ACTION ADVENTURE CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629015&extension=ts&play_token=KxeY2kifUb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",ACTION COMEDY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629014&extension=ts&play_token=KjeuI6H2WY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",ACTION CRIME CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629013&extension=ts&play_token=8vYEYWnVE0
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",ACTION DRAMA CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629012&extension=ts&play_token=4rWkoPCW56
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",ACTION THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629011&extension=ts&play_token=4TVjZs1qzG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",BIRJU MENON HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629010&extension=ts&play_token=PW2s54FqVw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",BOXOFFICE CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629009&extension=ts&play_token=E9ErkdwRCW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629008&extension=ts&play_token=64x0XxjxQK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY CLIP
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629007&extension=ts&play_token=c7ZVtI8zk9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY DRAMA CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629006&extension=ts&play_token=CEaKBDzfC8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY DRAMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629005&extension=ts&play_token=DTvLXqXS8C
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629004&extension=ts&play_token=R2ERFhrHmU
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY ROMANCE CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629003&extension=ts&play_token=FTPQ4fE3oz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",COMEDY THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629002&extension=ts&play_token=EMg2362O3O
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",CRIME DRAMA CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629001&extension=ts&play_token=gUqnzqAps4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",CRIME THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1629000&extension=ts&play_token=rHVSJrbbWR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",DILEEP CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628999&extension=ts&play_token=WHQVi4QeCI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",DRAMA CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628998&extension=ts&play_token=AdlNKPWTV1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",DRAMA FAMILY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628997&extension=ts&play_token=ylmQnjlrVD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",DRAMA ROMANCE CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628996&extension=ts&play_token=xVPt7YMn1K
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",DRAMA THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628995&extension=ts&play_token=Z4BSh0AFvQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",FAMILY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628994&extension=ts&play_token=kXCS82FfgX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",FANTASY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628993&extension=ts&play_token=iV6Su6KkbE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",HISTORY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628992&extension=ts&play_token=MRxAKdmyiI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",HORROR THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628991&extension=ts&play_token=wcU0uhc75Q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",JAYAN CINEMA HD-nn
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628990&extension=ts&play_token=d2mmAERIV4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",JAYASURYA CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628989&extension=ts&play_token=Zk5pfl0q8S
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",KALABHAVAN MANI CINEMA HD-nn
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628988&extension=ts&play_token=Ihottu8SCd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MADHU CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628987&extension=ts&play_token=ZkJ5ouJIFs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628986&extension=ts&play_token=x5UWDtKERH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 10
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628977&extension=ts&play_token=oFBsrg2nhT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 11
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628976&extension=ts&play_token=Hs4i5buxYd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 2
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628985&extension=ts&play_token=fsYLiKHqt3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 2022
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628975&extension=ts&play_token=4J4cwfxm5f
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 3
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628984&extension=ts&play_token=G7mlHzMTxP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 4
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628983&extension=ts&play_token=VBw3ZNpMCA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 5
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628982&extension=ts&play_token=9sMR5Zy2ch
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 6
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628981&extension=ts&play_token=PYxoN4X4ZR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 7
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628980&extension=ts&play_token=KQvS7RLNZn
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 8
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628979&extension=ts&play_token=Z9tSpfvORQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MALAYALAM 9
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628978&extension=ts&play_token=fGUl8uNPZm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MAMMOOTHY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628974&extension=ts&play_token=ezMH1qZk0V
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MOHANLAL CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628973&extension=ts&play_token=gJG6mTDVNh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MUKESH CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628972&extension=ts&play_token=q32Mvbf9jg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MURALI CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628971&extension=ts&play_token=NI84Thyyxl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MUSICAL CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628970&extension=ts&play_token=sBdaicsgyD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",MYSTERY CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628969&extension=ts&play_token=rEcppPHwER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",PREM NAZIR CINEMA HD-nn
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628968&extension=ts&play_token=XFWbqT5FaG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",RAJKUMAR CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628967&extension=ts&play_token=MHa0SD6Mo8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",SIDDIQUE CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628966&extension=ts&play_token=o3nK3k4UaQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",SPORT CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628965&extension=ts&play_token=gg8Gvjz6R8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",SURESH GOPI CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628964&extension=ts&play_token=tOezPkyL9F
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",THILAKAN CINEMA HD-nn
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628963&extension=ts&play_token=fwli8i3vhg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="Mallu Movies",THRILLER CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1628962&extension=ts&play_token=uxOyLUA6in
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX ALGERIA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1008544&extension=ts&play_token=CsFKUQJrs1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX AUSTRALIA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792133&extension=ts&play_token=oioAPt1eu6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX EARTH NATURE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792123&extension=ts&play_token=x8mvoQEYuZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX EUROPE TOWNS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792127&extension=ts&play_token=wUogWFo1rG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX FLOWER 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792122&extension=ts&play_token=9Gi2tzdRsD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX FOREST 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792121&extension=ts&play_token=VtK0BV9wv1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX FOREST AMERICAN 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792128&extension=ts&play_token=eyhg40gARp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX ICELAND 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792135&extension=ts&play_token=TBr2tmNKi4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX INSPIRATIONAL MOTIVATIONAL 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792126&extension=ts&play_token=emm7GQsOUD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX ITALY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792132&extension=ts&play_token=Z7bNuv2mjd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX MORNING RELAXING 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792125&extension=ts&play_token=zaZnF6wOti
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX MOROCCO 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792136&extension=ts&play_token=VDkZ2HkGzC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX NATURE RELAXATION 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792124&extension=ts&play_token=BiCYuJctyU
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX NORWAY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792134&extension=ts&play_token=PbXjQJOffF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX SNOW WINTER 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792120&extension=ts&play_token=vw7WvHJuhC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX STARDUST 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792119&extension=ts&play_token=1ZZyqtfXtl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX SWITZERLAND 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792131&extension=ts&play_token=mCWcyeBOfm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX THE OCEAN 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792118&extension=ts&play_token=tajIcWS6gT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX TROPICAL BEACH 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792117&extension=ts&play_token=ZdJ2NNuzpk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX TURKEY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=792130&extension=ts&play_token=lniz2swODt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13765.png?ver=98748" group-title="4K ",RELAX VIETNAM 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1238955&extension=ts&play_token=b5027un8qe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="FIFA WC 2026",CA: TSN 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239048&extension=ts&play_token=2E70zabjqJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="FIFA WC 2026",CA: TSN 1 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239047&extension=ts&play_token=OIUI58rv9y
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="FIFA WC 2026",CA: TSN 1 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239046&extension=ts&play_token=dsFlSOXurB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="FIFA WC 2026",CA: TSN 1 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239045&extension=ts&play_token=QjoDDlIYtA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="FIFA WC 2026",CA: TSN 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239040&extension=ts&play_token=sUFV3sbK2b
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="FIFA WC 2026",CA: TSN 2 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239038&extension=ts&play_token=7SwZV3RV83
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="FIFA WC 2026",CA: TSN 2 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239037&extension=ts&play_token=bnbpSMC23c
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="FIFA WC 2026",CA: TSN 2 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239036&extension=ts&play_token=wa7vwjNnwZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="FIFA WC 2026",CA: TSN 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239032&extension=ts&play_token=1LWLqxq6Sy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="FIFA WC 2026",CA: TSN 3 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239030&extension=ts&play_token=2esbgJbTDR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="FIFA WC 2026",CA: TSN 3 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239029&extension=ts&play_token=3T8Dmts9VT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="FIFA WC 2026",CA: TSN 3 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239028&extension=ts&play_token=0mWEum6TsL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="FIFA WC 2026",CA: TSN 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239023&extension=ts&play_token=gXiMxaaYvt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="FIFA WC 2026",CA: TSN 4 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239022&extension=ts&play_token=pzVtnOo0bd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="FIFA WC 2026",CA: TSN 4 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239021&extension=ts&play_token=yhwGHTS06a
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="FIFA WC 2026",CA: TSN 4 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239020&extension=ts&play_token=dmB9yKjZw2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="FIFA WC 2026",CA: TSN 5 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239014&extension=ts&play_token=x9piEG5U3o
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="FIFA WC 2026",CA: TSN 5 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239013&extension=ts&play_token=L4UaIEdZ5X
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="FIFA WC 2026",CA: TSN 5 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239012&extension=ts&play_token=7y7F9FYU5W
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="FIFA WC 2026",CA: TSN 5 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239011&extension=ts&play_token=aJKH1ESKuG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="FIFA WC 2026",CA: TSN 5 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1239009&extension=ts&play_token=nkSsstKYJh
