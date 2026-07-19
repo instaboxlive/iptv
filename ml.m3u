@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
+#EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="4K",FussBall TV
+https://tv.661918.xyz/proxy?url=https%3A%2F%2Fcdn.staticres.top%2Fp%2Fb1ea7ad7-d641-4c00-8b52-185c98fb9190
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" http-referrer="https://southlive.net" group-title="FIFA 2026",FOX SPORTS
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
