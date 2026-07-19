@@ -65,7 +65,7 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="Sun Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-language="Malayalam" group-title="Movies", Sun Surya Movies
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:69:25:55&stream=443065&extension=ts&play_token=INZti5Jco8
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443065&extension=ts&play_token=DvhysQyYI1
 #EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
