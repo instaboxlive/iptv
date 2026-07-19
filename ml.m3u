@@ -3092,3 +3092,5 @@ http://live.balajibroadband.com:3500/live/162.m3u8
 http://live.balajibroadband.com:3500/live/892.m3u8
 #EXTINF:-1 ,nhk 4k
 https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+#EXTINF:-1 ,nhk 4k server1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
