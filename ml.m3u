@@ -14,6 +14,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443065&ex
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="ASIA| MALAYALAM",MALAYALAM: SURYA HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443066&extension=ts&play_token=t1kOdHfACN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="Entertainment",SURYA HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Middle-East-Channel.png" group-title="Entertainment",Middle East
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
