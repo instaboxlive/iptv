@@ -165,6 +165,12 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy Kids",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies",HBO
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies", HBO 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856369&extension=ts&play_token=OiKEaMBcfe
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/b/153-1531106_hbo-logo-png.png" group-title="Movies",HBO FAMILY
