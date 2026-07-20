@@ -196,16 +196,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
-#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-2.png" group-title="Movies", HBO 
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856369&extension=ts&play_token=OiKEaMBcfe
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/b/153-1531106_hbo-logo-png.png" group-title="Movies",HBO FAMILY
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856436&extension=ts&play_token=EVkX3t6TKI
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305" group-title="Movies", HBO HITS
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856435&extension=ts&play_token=FMy8akdCW5
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" group-title="Movies",HBO SIGNATURE
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856434&extension=ts&play_token=XrqEAJERJF
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/3840px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",CINEMAX
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856386&extension=ts&play_token=ZTjbbCYi50
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909" group-title="Movies",WB HD
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="151" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",RomedyNow
