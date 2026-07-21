@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <title>Multi MPD Player with Clear Keys</title>
-    <link rel="stylesheet" type="text/css" href="/clpr.css" />
+    <link rel="stylesheet" type="text/css" href="https://b4uplay.com/clpr.css" />
    <style>
         *, *::before, *::after {
             box-sizing: border-box;
