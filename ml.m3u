@@ -508,8 +508,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 #EXTINF:-1 tvg-id="RajNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png" group-title="News",Raj News (576p)
 http://103.72.101.252:8080/live/767.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" group-title="Entertainment",Raj TV (1080p)
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160b27f9-7547-40ad-a731-ea63430f696e/0.m3u8
-#EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="Music",Vijay Takkar APAC (1080p)
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b2755f40-f258-484d-bc75-df03948210ca/0.m3u8
 #EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="Tamil",J Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3
@@ -613,10 +612,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
-#EXTINF:-1 tvg-chno="197" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" group-title="Entertainment",DD Bharati
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06c83443a5a6477b9a820ae4b92eca4b:a52bfc49941e40538c2589f0639164ae
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/main.mpd
+#EXTINF:-1 tvg-chno="197" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/PITAARA_TV.png" group-title="Entertainment",Pitaara HD
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/0d2ed83a-9185-488e-b6c1-c91585ce8564/4.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FDbnukqGiI8pxKrYWFVGwTX6SHBi0635o5xrnJL1by1ydhHaqLhKlEWMawzZyGGY0KSE" group-title="Entertainment",E24 TV
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/339f4f57-e78c-4f29-9650-a1051b0f448c/3.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/833455c80d73a6f34a8184277358d8fc.png" group-title="Entertainment",PTC Punjabi
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/c5b19c31-9b25-4c52-bf93-273b2b9601a9/4.m3u8
 #EXTINF:-1 ,Sony HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 ,Cartoon Network
