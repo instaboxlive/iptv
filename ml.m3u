@@ -248,22 +248,8 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441189&ex
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/thumb/e/e8/Miramax_%282023%2C_The_Holdovers_variant%29.webp/499px-Miramax_%282023%2C_The_Holdovers_variant%29.webp.png" group-title="Movies",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
-http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (576p)
-http://149.71.34.166:8002/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p)
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic West (720p)
-http://206.212.244.63/122/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (720p)
-http://206.212.244.63/123/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
-http://149.71.34.166:8002/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD East (720p)
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://earthxmedia.com/wp-content/uploads/2024/06/EARTHXtra_Logo_RegisteredMark_Default-scaled.png" group-title="Wild",EarthXtra
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1e11ef53-dd2b-4000-be85-84d155c01433/4.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
 #EXTINF:-1 tvg-id="286" tvg-logo="https://mikemathisprods.com/wp-content/uploads/2021/12/animal-planet-1.png" group-title="Wild",Animal Planet HD
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -278,6 +264,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+#EXTINF:-1 tvg-id="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Discovery_Turbo.svg/960px-Discovery_Turbo.svg.png" group-title="Auto ",Discovery Turbo HD
+https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984000/600x200.png?type=white_cropped",1298 Fifth Gear
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984000&ads.xumo_streamId=99984000&ads.channelId=99984000&ads.ad_tag_id=31260&ads.csid=lgchannels_gb_fifthgear_ssai&ads.channelName=fifthgear_uk&ads.xumo_contentName=All3MediaFifthGear&ads.xumo_contentId=3867&ads.xumo_providerName=All3MediaFifthGear&ads.xumo_providerId=3867&ads.content_category=IAB17&ads.content_genre=Sports&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoveryworld.png" group-title=" ENGLISH", DISCOVERY WORLD HD
@@ -288,20 +276,12 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441177&ex
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Series",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/HISTORY.png" group-title="Documentary",HISTORY Philippiens
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=1856422&extension=ts&play_token=NYIHBepEVW
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Hindi
 https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30820-amg30820c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History TV18
 https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",H2 
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
-#EXTINF:-1 tvg-id="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Discovery_Turbo.svg/960px-Discovery_Turbo.svg.png" group-title="Auto ",Discovery Turbo new
-https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANIMAL-PLANET-HD.png" group-title=" ENGLISH", ANIMAL PLANET HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441184&extension=ts&play_token=2tOhR5KsAm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png" group-title=" ENGLISH", BBC EARTH HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:69:25:55&stream=441183&extension=ts&play_token=XrHQrZxC5O
 #EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="TV & Entertainment",America's Got Talent
