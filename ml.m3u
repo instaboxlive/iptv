@@ -9,11 +9,11 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="Sun Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-language="Malayalam" group-title="Movies", Sun Surya Movies
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:86:26:31&stream=443065&extension=ts&play_token=a6sHIkFokC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443065&extension=ts&play_token=1TcAb3Ov2x
 #EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD HDR
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="ASIA| MALAYALAM",MALAYALAM: SURYA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443066&extension=ts&play_token=t1kOdHfACN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443066&extension=ts&play_token=sHmaOcbqt3
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="Entertainment",SURYA HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
@@ -37,14 +37,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443058&ex
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="459" tvg-logo="https://www.keralatv.in/media/2023/03/Asianet-Movies-HD-1200x721.png" group-title="Movies",ASIANET MOVIES HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443057&extension=ts&play_token=QyKVu3ULDI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443057&extension=ts&play_token=HRs8AgNbqu
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png" http-referrer="https://tulnit.com" group-title="Entertainment",Asianet Plus
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443068&extension=ts&play_token=4Uh3qF7IFJ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443068&extension=ts&play_token=kFtjGdGygQ
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KOCHU-TV.jpg" group-title="MALAYALAM",MALAYALAM: KOCHU TV
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443046&extension=ts&play_token=nyeUsplaAH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443046&extension=ts&play_token=Nx3FYLLB1Z
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" group-title="Entertainment",Kairali TV (576p)
@@ -231,15 +231,13 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="762" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Movies",Sony Movies HD 
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="762" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD 
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441205&extension=ts&play_token=gyPlgXAsBw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441216&extension=ts&play_token=qWeCR96Q2K
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441217&extension=ts&play_token=U7nGzHlmOA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="ASIA| ENGLISH",ENGLISH: STAR MOVIES SELECT HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441215&extension=ts&play_token=eDlWKjBQPX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TATA-SKY.png" group-title="ASIA| ENGLISH",ENGLISH: TATA SKY WORLD CINEMA HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=441189&extension=ts&play_token=uhQs7vSebw
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=441205&extension=ts&play_token=W7C3y1Wvkq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",STAR MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=441216&extension=ts&play_token=sFkzF6Eq2a
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/starmovies.png" group-title="ASIA| ENGLISH",STAR MOVIES HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=441217&extension=ts&play_token=2YLSYu3d3I
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="ASIA| ENGLISH",STAR MOVIES SELECT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=441215&extension=ts&play_token=TSw9BY0Dzh
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Logo.png" group-title="Movies",Amazon Movies
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
