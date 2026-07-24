@@ -2,8 +2,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
 #EXTINF:-1 tvg-id="648" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcbf005fdbbe3c4c5224827def2387b8.png" group-title="Entertainment",Mazhavil Manorama (576p)
 https://cdn-3.pishow.tv/live/1479/master.m3u8
-#EXTINF:-1 tvg-id="648" tvg-logo="" group-title="Entertainment",TEST
-https://www.youtube.com/@keralavisionnews24x7/live
+#EXTINF:-1 tvg-id="648" tvg-logo="" group-title="Entertainment",Amrita News TEST
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1784919440/ei/MGFjaqCRN8LEssUP4bCFyQg/ip/120.61.216.112/id/4Ng7A95vHT0.166/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828969/txs/51828969%2C51828970%2C51828971/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AZFlqhNOyQzdcYVlCMIXyOdvOI73VOm2QqsxeFVo6LgYVIkPwUA7nF1SWrw3hrEJTmmUZtCh3Q/spc/SQ-umkWHIimrDG7DNykcS5qfdlRZFckS7yL2Shl4QUjykFq-bp06tkM/vprv/1/go/1/ns/rlPJgrHe-PfMoWg0QG__RxsX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51992868/dover/11/n/jocXSl-Kyy-eOJJd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgfSeS-WIK5HMQ_Uo9UljB8XpC7_T1zMcUvby3vjCCKR8CIQCRtdA6omYDwh3w91DA4O2dL-RXHzQhr-1cQmTM3Q9u4w%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD (1080p)
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD server2
