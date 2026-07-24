@@ -2,6 +2,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
 #EXTINF:-1 tvg-id="648" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bcbf005fdbbe3c4c5224827def2387b8.png" group-title="Entertainment",Mazhavil Manorama (576p)
 https://cdn-3.pishow.tv/live/1479/master.m3u8
+#EXTINF:-1 tvg-id="648" tvg-logo="" group-title="Entertainment",TEST
+https://www.youtube.com/@keralavisionnews24x7/live
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD (1080p)
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD server2
