@@ -88,6 +88,8 @@ https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 https://playout6multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="1644" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",PowerVision TV
 https://dksfwd26nz1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="1644" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hxqTPJJIuKhwPuD489Af8lmEpmX3JAJMl13NyZ_YLNX2QOXJBpOAJzxf&s=10" group-title="Religious",World To Wolrld TV
+https://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us@SD" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV (1080p)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-id="180" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (1080p)
