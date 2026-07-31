@@ -107,7 +107,7 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="965" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18malayalam-logo-1200x675.png" group-title="News",NEWS18 KERALA 
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="bigtvml@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BIG-TV-Malayalam_black.png" group-title="News",BigTV Malayalam
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 #EXTINF:-1 tvg-id="725" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/5AitQDLSHGLXO5gFCchmHLS5RHNzYqrbWIOmvSO3VbjKQ0iV877xDvEMn_IDjR7d/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/KAIRALI_NEWS.png" group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD"tvg-logo="https://english.cdn.zeenews.com/images/app/malayalam/MALAYALAM_REVERSE-01.jpg" group-title="News" ,Zee News Malayalam 
