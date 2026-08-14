@@ -612,6 +612,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png" group-title="Music",M TV
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="IN3900002KB" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20260623T014801SQUARE.png",E24
+https://news24.ottlive.co.in/e24/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/cf25844decbb63a6b096aef7512794ff.png?width=300" group-title="Music",PTC Music HD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="https://cdn.aptoide.com/imgs/0/b/4/0b48bcb7252031b29db9183bc4ac07dc_icon.png" group-title="Music",Shemaroo Music
