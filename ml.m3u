@@ -619,7 +619,7 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="" group-title="Music",Deewana Music
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/PITAARA_TV.png" group-title="Entertainment",Pitaara HD
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/0d2ed83a-9185-488e-b6c1-c91585ce8564/4.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FDbnukqGiI8pxKrYWFVGwTX6SHBi0635o5xrnJL1by1ydhHaqLhKlEWMawzZyGGY0KSE" group-title="Entertainment",E24 TV
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/339f4f57-e78c-4f29-9650-a1051b0f448c/3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/833455c80d73a6f34a8184277358d8fc.png" group-title="Entertainment",PTC Punjabi
