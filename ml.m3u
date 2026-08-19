@@ -3368,3 +3368,5 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:95:FE:54&stream=791172&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:95:FE:54&stream=791171&extension=ts&play_token=K9scKuTxT6
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼",RX: RELAX TURKEY ᵁᴴᴰ 3840P
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:95:FE:54&stream=791177&extension=ts&play_token=OLivQkNllE
+#EXTINF:-1 tvg-logo="" group-title="",TEST1 VOD
+https://vod.shalomtv.tv/shalomtv/content/s_ht5x2nke/a.m3u8
