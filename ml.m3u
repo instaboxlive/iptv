@@ -79,7 +79,11 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://d21eltvzuohwbs.cloudfront.net/v1/webp_compress/ott506/logo/LogoAsset.png" group-title="Religious",Shalom Global
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png" group-title="Religious",Shekinah TV (1080p)
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
+https://livechanneltv.airtvlive.com/ShekinahNewsIndia/Live/index.m3u8
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://yt3.googleusercontent.com/9zrgLWK0yI--Iuky9lTLqAmyH8UmI2YXv0HSQZx2iYXUXvpfbrFNbJKmfEBDu686mR6WWtMCkg=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Shekinah Americas (1080p)
+https://livechanneltv.airtvlive.com/ShekinahAmericaTV/Live/index.m3u8
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://timeiptv-ott-storage.s3.ap-south-1.amazonaws.com/uploads/live_url/live_url_22684942.png" group-title="Religious",Shekinah Europe (1080p)
+https://livechanneltv.airtvlive.com/ShekinahEuropeTV/Live/index.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
 https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
