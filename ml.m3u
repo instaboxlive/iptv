@@ -19,7 +19,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443066&exten
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+#KODIPROP:inputstream.adaptive.license_key=2e8460c47d3f01693e193dba5963a5e1:6b67bccef7024f2da29b42e10dc13f89
 https://nxliv.com/sunxt/livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="Entertainment",SURYA HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
