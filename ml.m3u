@@ -589,6 +589,10 @@ https://login.bheem.tv/bpk-tv/22379/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d40de25714e5bfea8d4416e122cbe1f:cf4e7638142ca8ee949de71f6c77a85f
 https://login.bheem.tv/bpk-tv/22380/output/index.mpd
+#EXTINF:-1 tvg-id="22380" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Astro_Vaanavil_%282024%29_01.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Tamil Entertainment",ASTRO VANAVIL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+https://de6fd67c76a84e6c94aec45e5b113798.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH9-dash/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9IUsGU1pFVyj4eo9B0_E71ak2sO-PzWL6hIPesrRbsJ7O94BxWpSn7C5z0FA7mXWOZ7IKhzCj2BsnCoMVDK05A=w526-h296-rw" group-title="Music",Prime Music HD
 https://live.primestream.in/prime/music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="Music",RETRO MUSIC HD
