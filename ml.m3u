@@ -9,7 +9,12 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTINF:-1 tvg-id="1666" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Lifestyle",Safari TV (480p)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="Sun Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-language="Malayalam" group-title="Movies", Sun Surya Movies
-http://trextv.org:80/play/live.php?mac=00:1A:79:7B:0A:BE&stream=155815&extension=ts&play_token=5rzU1wA8jB
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://nxliv.com/sunxt/livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 #EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD HDR
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="ASIA| MALAYALAM",MALAYALAM: SURYA HD
@@ -21,7 +26,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443066&exten
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SURYA-HD.jpeg" group-title="Entertainment",SURYA COMEDY
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Entertainment",SURYA COMEDY
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
