@@ -58,6 +58,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443057&exten
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3e5fbd6024a4f299cc0dbf282e10064:b5d30e367dc355b1b2ce7e1499914874
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
+#EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443068&extension=ts&play_token=kFtjGdGygQ
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KOCHU-TV.jpg" group-title="MALAYALAM",MALAYALAM: KOCHU TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443046&extension=ts&play_token=Nx3FYLLB1Z
@@ -73,7 +80,7 @@ https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We (576p)
-https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+https://cdn.pishow.tv/ott/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="842" tvg-logo="https://jeevan.tv/wp-content/uploads/2025/11/white-logo-1.png" group-title="Entertainment",Jeevan TV
