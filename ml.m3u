@@ -220,18 +220,6 @@ https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
-#EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://www.pngitem.com/pimgs/b/153-1531106_hbo-logo-png.png" group-title="Movies",HBO Family
-#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="fifa.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/3840px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",CINEMAX
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -240,6 +228,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909" group-title="Movies",WB HD
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/GV6IoQRuKN2anaXInjyB9EX1s8YN2XuG3GVW-SMMxTSU7gsSskMSJxmQO0IFCrGo9I8GG0WEyAs=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",LIONSGATE NETWORK
+https://aka-live1050.delivery.roku.com/356588e6-ed76-4c21-9d31-d37a12ca86ed/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="151" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",RomedyNow
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
