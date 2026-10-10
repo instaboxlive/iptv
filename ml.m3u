@@ -48,6 +48,13 @@ https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2018/11/Asianet-HD-channel-high-clarity-logo.png" group-title="Entertainment",ASIANET HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443058&extension=ts&play_token=Dy2nzZtJaq
+#EXTINF:-1 tvg-id="" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" group-title="Entertainment",ASIANET CINEMA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
+https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org/" group-title="Movies",Asianet Movies 
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
