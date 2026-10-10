@@ -87,6 +87,13 @@ https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" group-title="Entertainment",NTV UAE
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/NTV_HD_1/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We (576p)
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV 
