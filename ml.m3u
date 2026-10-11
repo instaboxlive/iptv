@@ -409,7 +409,7 @@ https://online.wayanadvision.in/hls/wayanadvision.m3u8
 https://live.skystream.in/live/kasaragodvsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLjmUMKXyrz5WgfAh8KnsXUV1_zm-SmXocw&s" group-title="Regional",CTV mukkam
 https://live.skystream.in/live/ctv1805/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="Regional"MAGNA VISION
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="Regional" MAGNA VISION
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=91&type=mp4
 #EXTINF:-1 tvg-logo="" group-title="Regional",TCN
 https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
