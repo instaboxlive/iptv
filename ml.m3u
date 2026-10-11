@@ -70,7 +70,7 @@ https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaa
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colorsportscreen.com/dishtv/dish-play.php?action=get_token&content_id=HE_E_10092
+#KODIPROP:inputstream.adaptive.license_key=https://dshp4r35.anycast.nagra.com/DSHP4R35/wvls/contentlicenseservice/v1/licenses
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443068&extension=ts&play_token=kFtjGdGygQ
