@@ -56,12 +56,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F1:B5:CC&stream=443058&ex
 #KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="459" tvg-logo="https://i.imgur.com/cps67hs.png" http-referrer="https://bhoomtv.org/" group-title="Movies",Asianet Movies 
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="459" tvg-logo="https://www.keralatv.in/media/2023/03/Asianet-Movies-HD-1200x721.png" group-title="Movies",ASIANET MOVIES HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="459" tvg-logo="https://www.keralatv.in/media/2023/03/Asianet-Movies-HD-1200x721.png" group-title="Movies",ASIANET MOVIES HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_us_https/index.m3u8
-#EXTINF:-1 tvg-id="459" tvg-logo="https://www.keralatv.in/media/2023/03/Asianet-Movies-HD-1200x721.png" group-title="Movies",ASIANET MOVIES HD
+#EXTINF:-1 tvg-id="459" tvg-logo="https://www.keralatv.in/media/2023/03/Asianet-Movies-HD-1200x721.png" group-title="Movies",ASIANET MOVIES HD 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443057&extension=ts&play_token=HRs8AgNbqu
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png" http-referrer="https://tulnit.com" group-title="Entertainment",Asianet Plus
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
