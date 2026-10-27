@@ -543,6 +543,8 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 http://103.72.101.252:8080/live/767.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" group-title="Entertainment",Raj TV (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+#EXTINF:-1 tvg-id="zeetamil.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Zee_Tamil_2025.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entertainment",ZEE TAMIL HD 
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="Tamil",J Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3
