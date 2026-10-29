@@ -75,6 +75,13 @@ https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dshp4r35.anycast.nagra.com/DSHP4R35/wvls/contentlicenseservice/v1/licenses
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
+#EXTINF:-1 tvg-id="1641" tvg-logo="" http-referrer="https://bhoomtv.com" group-title="Entertainment",tesdt
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://colorsportscreen.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=CAAecdykKfcAJDllZjdiZWM0LTM0NmQtNDA1NC04MTBjLWU1ODgyMjEyYjBkZAAAAIDvd9H5yN0LUgiHarkEl12PRenARA4Tpoas86SqYLGqZQhg6HuHEWcda-bVFKgq72amZ_u_l9bGULeshiGeaUe02spgtQqrD76EVuORYOj3WGDrRvlgfWqZXJD2fG-PdaVfMWSiZdSulCXI3NsMCt7DdvOGA3stMf8m9bxCcR6SPNcqoSBCbUxI6jL2boYnqEorefU-\u0026id=b2869c690c3a99da35e2871354c151d624f7e866
+https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Zee_Keralam_2025.svg/1280px-Zee_Keralam_2025.svg.png" http-referrer="https://bhoomtv.com" group-title="Entertainment",ZEE KERALAM HD 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:EB:13:58&stream=443068&extension=ts&play_token=kFtjGdGygQ
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KOCHU-TV.jpg" group-title="MALAYALAM",MALAYALAM: KOCHU TV
