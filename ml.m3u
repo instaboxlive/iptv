@@ -199,6 +199,13 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+#EXTINF:-1 tvg-id="cartoonNetwork.in@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-referrer="https://southlive.net" group-title="Kids",CN HD+
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=CAAecdykKc8AJDllZjdiZWM0LTM0NmQtNDA1NC04MTBjLWU1ODgyMjEyYjBkZAAAAIAkL45ncItG3bC1RbLJBI205X3gj3NbVJkmIixBgjaDcMaYFrnG8OVxcrFnMEz2SWDq2K1Pzr4g9W89cRQMPBHFKorwwk2d8NT6FbbcXuGA-qNS9zHcWQ4mP6mb046JqxGFft9VP-TZQyto0adjg1YPTDVqNROmdL8HphBYNg437-0kyNTssd31Z4XSYv6CYlidcFwz\u0026id=b2869c690c3a99da35e2871354c151d624f7e866
+https://wbd.skandha.tv/Cartoon_Network_HD/Cartoon_Network_HD.isml/.mpd
 #EXTINF:-1 tvg-id="556" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Oggy_et_les_Cafards_logo.svg/revision/latest/scale-to-width-down/1200?cb=20251107203901" http-referrer="https://m3uplay.com" group-title="Kids",OGGY & COCKROACHES
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #KODIPROP:inputstream.adaptive.http-referrer=https://bhoomtv.org/
