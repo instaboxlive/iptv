@@ -137,8 +137,12 @@ https://livechanneltv.airtvlive.com/ShekinahNewsIndia/Live/index.m3u8
 https://livechanneltv.airtvlive.com/ShekinahAmericaTV/Live/index.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-logo="https://timeiptv-ott-storage.s3.ap-south-1.amazonaws.com/uploads/live_url/live_url_22684942.png" group-title="Religious",Shekinah Europe (1080p)
 https://livechanneltv.airtvlive.com/ShekinahEuropeTV/Live/index.m3u8
-#EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV (720p)
-https://live.timeiptv.in/Goodnesstv/Timeiptvlive.stream/manifest_dvr.mpd
+#EXTINF:-1 tvg-id="1388" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="Religious",GOODNESS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://fta.ektv.in/live/704/master.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUK.us" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV UK
@@ -149,6 +153,8 @@ https://dksfwd26nz1.cloudfront.net/master.m3u8
 https://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us@SD" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV (1080p)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-id="CatholicTV.us@SD" tvg-logo="https://www.mozhda.tv/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75&dpl=dpl_BK8GL3Mcyi3P7Md8cfHcGLHdDmDY" group-title="Religious",MOZHDA TV (1080p)
+https://cdn3.wowza.com/5/OS9ScnJwQ2FwNHNj/mozhda-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="180" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" group-title="News", Asianet News (1080p)
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Reporter_TV_screen_logo.png" group-title="News",REPORTER TV
@@ -3194,12 +3200,6 @@ https://fta.ektv.in/live/701/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://fta.ektv.in/live/702/master.m3u8
-#EXTINF:-1 tvg-id="704" tvg-logo="",Goodness TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-https://fta.ektv.in/live/704/master.m3u8
 #EXTINF:-1 tvg-id="705" tvg-logo="",CVR OM Spiritual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
